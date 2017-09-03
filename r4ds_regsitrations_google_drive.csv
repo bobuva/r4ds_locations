@@ -1,0 +1,631 @@
+date,type,rstudio,data,location
+8/20/2017 16:21:02,Learner,2,3,"Hinsdale, IL USA"
+8/20/2017 16:34:34,Mentor,5,4,Halifax
+8/20/2017 16:37:15,Learner,2,2,"Charlotte, NC USA"
+8/20/2017 16:37:24,Mentor,5,4,"London, Uk"
+8/20/2017 16:42:59,Learner,4,3,"Rome, Italy"
+8/20/2017 16:46:31,Learner,3,2,Illinois
+8/20/2017 17:27:21,Mentor,5,5,"Cambridge, MA, USA"
+8/20/2017 17:40:34,Learner,2,4,"Seattle, WA, USA"
+8/20/2017 17:47:09,Learner,3,3,Claremont
+8/20/2017 17:55:41,Learner,2,2,"San Jose, California, US"
+8/20/2017 17:58:02,Learner,3,3,China
+8/20/2017 17:58:39,Learner,1,3,"Kansas City, Missouri, USA"
+8/20/2017 18:10:17,Learner,1,2,"Billings, MT USA"
+8/20/2017 18:12:08,Learner,2,2,Finland
+8/20/2017 19:15:52,Learner,2,3,"Denton, TX"
+8/20/2017 19:43:56,Learner,2,2,"San Diego, CA, USA"
+8/20/2017 20:22:43,Mentor,3,3,Canada
+8/20/2017 20:36:40,Learner,3,2,Florida 
+8/20/2017 21:37:52,Learner,2,4,Oakville/Oantario/ Canada
+8/20/2017 21:37:55,Mentor,4,4,"Los Angeles, California, USA"
+8/20/2017 21:40:23,Mentor,5,4,"Toronto, ON, Canada"
+8/20/2017 21:46:26,Learner,2,2,"Bethesda, MD, USA"
+8/20/2017 21:46:32,Learner,2,3,"Tampa, FL USA"
+8/20/2017 21:49:22,Mentor,4,5,Moscow/Russia
+8/20/2017 21:49:40,Learner,3,3,"Buenos Aires, Argentina"
+8/20/2017 21:50:12,Learner,2,4,"SF, CA"
+8/20/2017 21:51:31,Learner,2,3,"Portland, Oregon"
+8/20/2017 21:55:19,Learner,2,3,"Indianapolis, IN, USA"
+8/20/2017 21:55:31,Learner,1,1,"Tampa, FL"
+8/20/2017 21:55:46,Mentor,4,4,"Vancouver, BC, Canada"
+8/20/2017 21:57:50,Learner,3,2,"Hyderabad, India"
+8/20/2017 21:59:40,Learner,3,5,"Izmir, Turkey"
+8/20/2017 22:02:09,Learner,3,3,"Auckland, New Zealand"
+8/20/2017 22:05:15,Learner,2,3,"New Haven, Connecticut"
+8/20/2017 22:12:29,Learner,3,3,"Sewickley, PA USA"
+8/20/2017 22:16:03,Learner,1,3,Washington DC
+8/20/2017 22:18:36,Learner,2,3,Minneapolis Minnesota 
+8/20/2017 22:19:43,Learner,4,3,Mexico City 
+8/20/2017 22:19:54,Learner,2,2,India
+8/20/2017 22:24:27,Learner,2,3,"San Anselmo, California, USA"
+8/20/2017 22:26:28,Mentor,5,4,"Paris, France"
+8/20/2017 22:31:37,Learner,3,3,Munich/Germany
+8/20/2017 22:38:21,Mentor,5,5,"London, U.K. "
+8/20/2017 22:42:19,Learner,3,3,Chicago 
+8/20/2017 22:43:38,Learner,1,2,Malaysia
+8/20/2017 22:45:41,Learner,2,2,"Skudai, Johor, Malaysia"
+8/20/2017 22:45:45,Learner,2,2,India
+8/20/2017 23:10:50,Learner,3,3,"Austin, TX"
+8/20/2017 23:11:28,Learner,2,3,"Oakland, CA"
+8/20/2017 23:15:01,Learner,2,1,Islamabad
+8/20/2017 23:22:00,Learner,5,5,Bangalore
+8/20/2017 23:28:19,Learner,3,2,"Bangalore, Karnataka, India"
+8/20/2017 23:35:20,Learner,3,5,"Bangalore,Karnataka, India"
+8/20/2017 23:45:44,Mentor,5,5,"Back of nowhere, australia"
+8/21/2017 0:06:10,Learner,3,3,"Nairobi, Kenya"
+8/21/2017 0:10:42,Learner,1,2,"Hyderabad, India"
+8/21/2017 0:11:33,Learner,2,3,"Hyderabad, Telengana, India"
+8/21/2017 0:11:51,Learner,2,2,"Trivandrum,Kerala,India"
+8/21/2017 0:20:22,Learner,1,1,"karnataka,INDIA"
+8/21/2017 0:26:58,Learner,2,1,"Bangalore,India"
+8/21/2017 0:28:35,Learner,2,2,"Atlanta , usa"
+8/21/2017 0:31:16,Learner,3,2,"Bangalore, Karnataka, India"
+8/21/2017 0:38:18,Learner,1,1,"Bangalore, India"
+8/21/2017 0:39:08,Learner,1,2,"Edinburgh, UK"
+8/21/2017 0:43:24,Mentor,5,5,"Berkeley, CA, USA"
+8/21/2017 0:49:17,Mentor,5,5,"San Diego, CA, USA"
+8/21/2017 0:50:15,Learner,1,2,"Hyderabad, Telangana, India"
+8/21/2017 0:53:14,Learner,3,2,Warszawa
+8/21/2017 1:00:31,Learner,1,2,"Los Angeles, CA"
+8/21/2017 1:01:35,Learner,4,4,Palo Alto
+8/21/2017 1:02:58,Learner,2,2,"Los Angeles, CA"
+8/21/2017 1:11:28,Learner,5,5,United States
+8/21/2017 1:18:00,Mentor,5,5,"Bangalore,India"
+8/21/2017 1:19:59,Learner,3,3,Netherlands
+8/21/2017 1:50:43,Learner,5,5,AMSTERDAM
+8/21/2017 1:55:31,Learner,3,3,"Corvallis, OR, USA"
+8/21/2017 2:10:05,Mentor,4,3,London/UK and Zurich/Switzerland 
+8/21/2017 2:35:19,Learner,3,3,"Bristol, UK"
+8/21/2017 2:53:35,Learner,2,2,Hyderabad 
+8/21/2017 2:57:30,Learner,2,4,"London, UK"
+8/21/2017 2:58:09,Learner,5,3,"Moscow, Idaho USA"
+8/21/2017 3:12:40,Learner,2,2,Netherlands
+8/21/2017 3:14:31,Mentor,5,5,Germany
+8/21/2017 3:33:11,Mentor,5,4,"Newcastle upon Tyne, UK"
+8/21/2017 3:35:25,Learner,2,3,Zagreb/Croatia
+8/21/2017 3:36:37,Learner,1,3,"Madrid, Spain"
+8/21/2017 3:42:18,,,,
+8/21/2017 4:01:15,Mentor,5,5,Padova/Italy
+8/21/2017 4:10:07,Learner,4,4,"Wheaton, IL"
+8/21/2017 4:20:11,Learner,2,2,"Brisbane, Austrlia"
+8/21/2017 4:25:39,Learner,2,2,India
+8/21/2017 4:38:33,Learner,2,2,"Córdoba, SPAIN"
+8/21/2017 4:50:00,Learner,1,1,Hyderabad
+8/21/2017 4:53:09,Learner,2,4,"Easthampton, MA"
+8/21/2017 5:00:31,Learner,1,5,"Boca Raton, FL"
+8/21/2017 5:08:17,Learner,1,3,"Barrie, Ontario, Canada"
+8/21/2017 5:14:28,Learner,2,2,India
+8/21/2017 5:20:28,Mentor,4,5,"Benicia, ca, USA "
+8/21/2017 5:29:32,Learner,3,3,Galway/Connaught/Ireland
+8/21/2017 5:32:38,Learner,3,3,Kochi
+8/21/2017 5:34:01,Learner,3,3,"Newcastle, United Kingdom"
+8/21/2017 6:06:16,Learner,4,4,"Belo Horizonte, Minas Gerais, Brazil"
+8/21/2017 6:23:06,Mentor,5,5,"Tucumán, Argentina"
+8/21/2017 6:50:00,Learner,3,3,"Amherst, MA, USA "
+8/21/2017 6:56:12,Learner,1,4,"Austin, Texas, US"
+8/21/2017 6:58:18,Learner,1,2,"Exton, PA,USA"
+8/21/2017 6:59:53,Learner,2,1,France
+8/21/2017 7:05:21,Mentor,4,3,"Sherborne, United Kingdom"
+8/21/2017 7:08:13,Learner,5,5,"Orlando FL ,USA"
+8/21/2017 7:14:40,Mentor,5,3,Tokyo
+8/21/2017 7:26:23,Learner,1,1,"Delhi,India"
+8/21/2017 7:31:47,Mentor,5,4,"New York City, NY"
+8/21/2017 7:33:02,Learner,1,2,"Goiania, Goiás, Brasil"
+8/21/2017 7:35:40,Mentor,3,3,United States
+8/21/2017 7:47:21,Learner,3,2,Lima-Peru
+8/21/2017 7:48:33,Mentor,4,5,"Dallas, Texas"
+8/21/2017 7:49:46,Learner,2,2,"Greenbelt, Maryland, USA"
+8/21/2017 7:56:54,Learner,4,4,"Tirana, Albania"
+8/21/2017 7:56:57,Learner,4,4,"Tirana, Albania"
+8/21/2017 8:00:47,Mentor,2,4,"Groningen, Groningen, The Netherlands"
+8/21/2017 8:00:59,Learner,2,5,"Fayetteville, Arkansas, USA"
+8/21/2017 8:20:01,Learner,3,4,"Durham, UK"
+8/21/2017 8:22:51,Learner,1,2,United Kingdom 
+8/21/2017 8:40:13,Learner,2,2,Bangalore India
+8/21/2017 8:48:02,Mentor,3,3,"Inverness, UK"
+8/21/2017 8:50:09,Learner,1,2,"Los Angeles, California,  U.S.A"
+8/21/2017 8:51:25,Learner,1,2,"Los Angeles, CA , U.S.A"
+8/21/2017 8:53:27,Mentor,4,4,Ireland
+8/21/2017 9:04:55,Mentor,4,4,"Philadelphia, PA, USA"
+8/21/2017 9:23:40,Learner,2,4,"Vancouver, Canada"
+8/21/2017 9:30:43,Mentor,5,5,"Bath, UK"
+8/21/2017 9:34:58,Learner,2,3,India
+8/21/2017 9:39:18,Learner,3,3,"Nairobi, Kenya "
+8/21/2017 9:41:56,Learner,1,2,"Austin, TX"
+8/21/2017 9:42:07,Learner,1,1,"Mandsaur, Madhya Pradesh, Infia"
+8/21/2017 9:45:37,Learner,2,2,"Dallas, TX"
+8/21/2017 9:47:02,Learner,3,2,Luxembourg City 
+8/21/2017 9:49:58,Mentor,4,5,Reno
+8/21/2017 9:54:37,Learner,2,3,"Mexico City, Mexico"
+8/21/2017 10:01:21,Mentor,5,5,"Paris, Idf, France"
+8/21/2017 10:03:10,Mentor,5,4,Paris - France
+8/21/2017 10:15:29,Mentor,4,2,"Ithaca, NY"
+8/21/2017 10:21:00,Learner,4,3,"Valdivia, Los Rios, Chile"
+8/21/2017 10:32:41,Learner,1,1,"Buffalo, New York, USA "
+8/21/2017 10:37:54,Learner,3,3,"Washington, D.C."
+8/21/2017 10:42:27,Learner,3,2,"La Paz, Bolivia"
+8/21/2017 10:46:32,Learner,3,4,"San Francisco, CA"
+8/21/2017 10:51:15,Learner,1,2,"Lagos, Nigeria"
+8/21/2017 10:56:22,Mentor,4,5,"Boston, MA, USA"
+8/21/2017 10:57:45,Mentor,5,5,"Cork, Ireland"
+8/21/2017 11:01:35,Learner,2,3,"Bangalore, India"
+8/21/2017 11:07:09,Mentor,3,3,UK
+8/21/2017 11:17:32,Learner,3,2,United Kingdom
+8/21/2017 11:24:29,Learner,4,4,"Chicago, IL"
+8/21/2017 11:26:22,Mentor,4,4,Mauritius
+8/21/2017 11:29:06,Learner,3,2,"Mumbai,India"
+8/21/2017 11:33:33,Mentor,4,4,"New York, NY, USA"
+8/21/2017 12:02:40,Learner,1,1,"Providence, RI"
+8/21/2017 13:00:16,Mentor,5,5,Abu dhabi 
+8/21/2017 13:00:26,Learner,2,2,"Pittsburgh, PA, USA"
+8/21/2017 13:03:36,Mentor,3,3,"Philadelphia, PA, United States"
+8/21/2017 13:03:44,Learner,1,1,"North Hollywood, CA, United States"
+8/21/2017 13:13:44,Learner,3,3,"Braga, Portugal"
+8/21/2017 13:17:58,Mentor,5,4,"Vicosa, Minas Gerais,  Brazil"
+8/21/2017 13:33:17,Mentor,4,4,"Valencia, Valencia, Spain"
+8/21/2017 13:43:54,Learner,1,3,"Denton, TX, United States"
+8/21/2017 14:02:03,Learner,1,1,"Halifax, NS, Canada, and New Haven, CT, USA"
+8/21/2017 14:11:21,Mentor,5,5,"Los Angeles, CA"
+8/21/2017 14:21:41,Learner,4,4,"New Orleans, LA"
+8/21/2017 14:39:51,Learner,3,3,"London, England"
+8/21/2017 15:25:28,Learner,2,2,Berkeley Hts
+8/21/2017 15:32:07,Mentor,5,5,"Santa Barbara, California, USA"
+8/21/2017 15:32:20,Mentor,5,5,"Boston, MA, US"
+8/21/2017 15:53:24,Mentor,5,5,"Winston Salem, NC, USA"
+8/21/2017 16:01:10,Learner,2,3,"Sacramento, California, U.S."
+8/21/2017 16:01:27,Learner,4,3,"Durham, NC USA"
+8/21/2017 16:08:04,Learner,4,3,"Delhi,India"
+8/21/2017 16:32:37,Learner,1,1,"Pune, india"
+8/21/2017 16:37:52,Learner,3,5,"Round Rock, TX, USA"
+8/21/2017 17:00:54,Learner,4,4,"Springfield, IL, USA"
+8/21/2017 17:09:39,Learner,2,3,"Santa Barbara, California"
+8/21/2017 17:31:58,Mentor,3,3,"Brooklyn, New York "
+8/21/2017 17:34:58,Learner,2,3,"Miami, Florida, USA"
+8/21/2017 18:23:19,Learner,2,2,"Dublin, Ireland"
+8/21/2017 18:51:44,Learner,2,3,Seattle
+8/21/2017 20:07:21,Learner,2,2,BOISE
+8/21/2017 20:51:21,Learner,3,3,Singapore
+8/21/2017 21:06:11,Mentor,3,3,"New Jersey, USA"
+8/21/2017 21:51:33,Learner,2,5,"Brooklyn, NY"
+8/21/2017 22:13:06,Learner,1,1,D.C. 
+8/21/2017 23:59:13,Learner,4,3,"Chennai, Tamilnadu, India"
+8/22/2017 0:16:33,Learner,5,5,Kolkata
+8/22/2017 0:25:21,Learner,3,1,"Xalapa, Veracruz, México"
+8/22/2017 0:25:58,Learner,5,5,"San Francisco, CA, US"
+8/22/2017 0:57:12,Learner,3,3,"Goa, India"
+8/22/2017 1:53:16,Learner,3,4,"Seattle, WA"
+8/22/2017 2:12:24,Learner,5,2,Tianjin. China
+8/22/2017 3:47:38,Learner,2,3,"Dublin, Ireland"
+8/22/2017 6:20:28,Learner,2,2,"Keswick, Cumbria, UK"
+8/22/2017 6:34:26,Learner,2,4,"Manaus, Amazonas, Brazil"
+8/22/2017 6:41:42,Learner,2,3,"Oslo, Norway"
+8/22/2017 7:25:12,Mentor,5,3,"São Paulo, Brazil"
+8/22/2017 7:26:44,Learner,4,4,"Chicago, IL,USA"
+8/22/2017 7:28:27,Learner,3,2,"Ann Arbor, Michigan"
+8/22/2017 7:31:55,Learner,2,3,"Campinas, São Paulo, Brazil"
+8/22/2017 7:44:06,Learner,4,3,"Johannesburg, Gauteng, South Africa"
+8/22/2017 8:02:54,Mentor,5,5,"Chicago, IL, USA"
+8/22/2017 8:10:34,Mentor,5,5,"Montreal, Quebec, Canada"
+8/22/2017 8:52:46,Learner,1,1,"Plainsboro, NJ, US"
+8/22/2017 9:02:13,Mentor,5,3,"Guatemala City, Guatemala, Guatemala"
+8/22/2017 9:23:08,Learner,3,2,"Debrecen, Hungary"
+8/22/2017 9:30:43,Learner,1,3,"Toronto, Ontario, Canada"
+8/22/2017 9:33:15,Learner,2,3,"Bangalore, India"
+8/22/2017 9:45:58,Learner,2,4,"Chicago, IL, USA"
+8/22/2017 9:52:23,Learner,3,4,"Atlanta, GA"
+8/22/2017 9:52:52,Learner,1,3,"Atlanta, GA, USA"
+8/22/2017 10:06:22,Mentor,5,3,"Ames, Iowa, USA"
+8/22/2017 10:06:36,Mentor,5,4,"New York, NY"
+8/22/2017 10:33:31,Learner,1,2,"Long Beach, CA"
+8/22/2017 10:35:16,Learner,2,3,"Ann Arbor, MI, United States"
+8/22/2017 10:38:16,Mentor,5,4,"Houston, Texas"
+8/22/2017 10:40:36,Learner,1,3,"Greenbelt, MD, USA"
+8/22/2017 10:45:24,Learner,3,3,Illinois
+8/22/2017 11:26:24,Learner,2,2,"Chicago, IL"
+8/22/2017 11:47:08,Learner,2,3,"New Delhi, India"
+8/22/2017 12:16:44,Learner,1,2,"Oakville, Ontario"
+8/22/2017 12:25:58,Learner,1,3,"City of Buenos Aires, Argentina"
+8/22/2017 12:30:44,Learner,1,1,Dublin
+8/22/2017 12:35:18,Learner,2,2,"London, United kingdom "
+8/22/2017 13:30:38,Mentor,4,3,"Santa Barbara, CA"
+8/22/2017 13:37:22,Learner,3,4,"New York, NY, USA"
+8/22/2017 14:13:07,Learner,2,3,"Indore, India"
+8/22/2017 14:13:45,Learner,3,3,"London, UK"
+8/22/2017 14:14:15,Learner,1,2,Boise
+8/22/2017 14:39:23,Learner,3,3,"Minneapolis, MN, USA"
+8/22/2017 14:48:20,Learner,1,2,"Boise, Idaho, United States of America"
+8/22/2017 15:01:47,Mentor,5,4,"Canterbury, uk"
+8/22/2017 15:19:32,Learner,2,3,"Las Vegas, Nevada, United States"
+8/22/2017 15:44:10,Learner,1,3,"New York, New York "
+8/23/2017 3:03:54,Learner,1,2,"Besançon, France"
+8/22/2017 17:13:24,Learner,3,2,U.K. 
+8/22/2017 18:53:54,Learner,4,3,"Hitchin, Hertfordshire, UK"
+8/22/2017 19:53:35,Learner,1,1,"Newcastle, NSW, Australia"
+8/22/2017 20:50:45,Learner,4,5,los angeles
+8/22/2017 21:31:48,Mentor,5,5,"Chico, CA, USA"
+8/22/2017 22:06:46,Learner,1,1,"Minneapolis, MN"
+8/22/2017 22:50:53,Learner,1,3,"Raleigh, NC, USA"
+8/22/2017 22:51:10,Learner,2,2,"Alexandria,VA, USA"
+8/23/2017 0:44:15,Learner,4,4,Tokyo / Japan
+8/23/2017 2:19:59,Learner,1,3,"Sydney, NSW, Australia"
+8/23/2017 3:31:03,Learner,4,3,United Arab Emirates
+8/23/2017 3:49:24,Learner,4,2,Portugal
+8/23/2017 5:28:38,Learner,3,3,UK
+8/23/2017 7:13:23,Learner,2,2,"Sevilla, Spain"
+8/23/2017 7:20:28,Mentor,5,5,"Mérida, Merida, Venezuela"
+8/23/2017 7:52:00,Learner,2,2,"Lima, Perú "
+8/23/2017 8:16:28,Learner,3,2,VENEZUELA
+8/23/2017 8:19:37,Learner,2,2,"Cambridge, UK "
+8/23/2017 9:27:44,Mentor,5,5,"Evanston, IL, USA"
+8/23/2017 9:31:01,Learner,3,3,"La Paz, Bolivia"
+8/23/2017 10:12:23,Learner,3,3,"Durham, England"
+8/23/2017 10:18:23,Learner,4,5,Bogotá / Colombia 
+8/23/2017 10:24:23,Learner,3,3,"Pasto,Narino,Colombia"
+8/23/2017 10:32:10,Learner,2,3,"Lima, Lima, Peru"
+8/23/2017 10:42:49,Learner,4,4,Venezuela
+8/23/2017 10:57:57,Learner,4,3,"Medellín, Antioquia, Colombia"
+8/23/2017 11:48:00,Learner,2,2,"Bogotá, Colombia"
+8/23/2017 12:01:08,Mentor,4,3,"Bangalore, India"
+8/23/2017 12:03:28,Learner,3,3,Iquitos 
+8/23/2017 12:23:40,Learner,2,4,"bogo,colombia"
+8/23/2017 12:33:53,Learner,2,5,"CA, USA"
+8/23/2017 13:11:27,Learner,4,2,"Washington, DC"
+8/23/2017 13:21:39,Mentor,4,4,"Merida, Yucatan, Mexico"
+8/23/2017 13:36:25,Learner,1,3,"Washington, MI, USA"
+8/23/2017 14:19:31,Learner,4,3,Ostermundigen/Switzerland
+8/23/2017 15:00:32,Learner,5,5,Bogota Colombia
+8/23/2017 15:37:20,Learner,2,3,"Sydney, NSW, Australia "
+8/23/2017 15:46:29,Learner,3,3,"Regina, SK, Canada"
+8/23/2017 15:51:46,Learner,4,3,"Stuttgart, Germany"
+8/23/2017 15:51:30,Learner,1,1,Colombia
+8/23/2017 16:01:31,Mentor,5,5,"Austin, TX, USA"
+8/23/2017 16:21:48,Mentor,4,3,"New York, NY"
+8/23/2017 17:29:46,Mentor,5,5,"Santiago,Región Metropolitana/Chile"
+8/23/2017 17:53:53,Learner,5,3,"Sackville, New Brunswick, Canada"
+8/23/2017 18:04:02,Learner,1,3,Mexico City
+8/23/2017 18:08:49,Learner,2,2,Toronto Ontario
+8/23/2017 18:47:25,Learner,3,4,"San José, Costa Rica"
+8/23/2017 18:50:38,Learner,2,1,"Chicago, IL"
+8/23/2017 18:54:47,Learner,2,2,"Chicago, IL, USA"
+8/23/2017 19:11:40,Learner,3,2,Chile
+8/23/2017 19:42:03,Learner,3,3,"Quito, Pichincha, Ecuador"
+8/23/2017 19:57:34,Mentor,5,5,Venezuela
+8/23/2017 21:47:57,Learner,3,4,Bogotá/Colombia
+8/23/2017 21:49:54,Learner,1,2,México city
+8/23/2017 22:06:07,Learner,2,2,Mexico
+8/23/2017 22:12:53,Learner,3,3,"Caracas, DF, Venezuela"
+8/24/2017 0:08:22,Learner,3,2,Bangalore 
+8/24/2017 0:15:28,Learner,4,5,"bogota, colombia"
+8/24/2017 4:09:38,Learner,1,1,"Cape Town, Western Cape, South Africa"
+8/24/2017 5:02:17,Learner,4,5,"Medellin, colombia"
+8/24/2017 6:00:34,Learner,4,3,Cape Town
+8/24/2017 7:28:19,Learner,2,2,"Ilinois,USA"
+8/24/2017 7:48:01,Learner,1,4,"Toronto, ON, Canada"
+8/24/2017 8:49:54,Mentor,3,4,"New York, NY, USA"
+8/24/2017 10:21:14,,,,
+8/24/2017 10:23:11,Learner,1,2,"Toronto, Ontario, Canada"
+8/24/2017 11:00:09,Learner,3,3,Mexico City
+8/24/2017 13:08:29,Learner,4,3,Kathmandu
+8/24/2017 15:17:16,Learner,1,3,"Riverside, CA"
+8/24/2017 15:25:07,Learner,2,2,France (Bordeaux)
+8/24/2017 15:46:54,Learner,3,4,"Puerto Vara, Chile"
+8/24/2017 16:31:47,Mentor,5,5,"London, United Kingdom"
+8/24/2017 16:40:14,Mentor,4,5,"Montevideo, Uruguay"
+8/24/2017 17:58:28,Learner,1,4,"Denver, Colorado "
+8/24/2017 18:29:24,Learner,3,3,"Anchorage, AK"
+8/24/2017 18:47:40,Learner,2,1,"Perú, Lima"
+8/24/2017 20:02:44,Learner,3,3,"Melbourne, Victoria, Australia"
+8/24/2017 21:38:18,Mentor,5,5,"Melbourne, Victoria, Australia"
+8/24/2017 22:02:39,Mentor,4,4,"Washington, DC, USA"
+8/24/2017 22:25:55,Learner,3,2,"San Diego, CA"
+8/24/2017 22:52:13,Learner,3,2,"Melbourne, Victoria, Australia"
+8/25/2017 0:22:20,Mentor,5,5,"Vancouver, BC, Canada"
+8/25/2017 1:17:04,Learner,2,2,"Berkeley, CA"
+8/25/2017 2:44:33,Learner,3,3,"Avignon,Vaucluse,France"
+8/25/2017 3:53:58,Mentor,5,5,"Manchester, United Kingdom"
+8/25/2017 7:42:58,Mentor,5,5,"Lausanne, Switzerland"
+8/25/2017 7:45:54,Learner,1,2,"Louisville, KY USA"
+8/25/2017 9:17:37,Learner,2,2,Santiago. Chile
+8/25/2017 9:19:21,Learner,2,2,"Iowa City, Iowa, USA"
+8/25/2017 9:56:33,Learner,2,2,Australia
+8/25/2017 10:01:22,Learner,4,5,"Ciudad de Mexico, Mexico"
+8/25/2017 10:53:38,Learner,2,2,"San Francisco Bay Area , CA"
+8/25/2017 11:49:38,Learner,5,3,Quito - Ecuador 
+8/25/2017 11:51:04,Learner,1,4,"Caracas, Venezuela"
+8/25/2017 13:38:52,Learner,4,3,Lima/Lima/Peru
+8/25/2017 16:06:54,Mentor,5,4,"Orange, CA, USA"
+8/25/2017 19:29:37,Mentor,5,5,"Medford, MA, USA"
+8/25/2017 20:11:48,Learner,2,3,"Montreal, Quebec,  Canada "
+8/25/2017 21:08:53,Learner,3,3,"Quezon City, NCR, Philippines"
+8/25/2017 21:54:05,Learner,1,5,"New York, US"
+8/25/2017 22:01:15,Mentor,4,4,"Waukesha, WI, USA"
+8/25/2017 22:02:04,Learner,1,3,"Hyderabad, India "
+8/26/2017 0:32:37,Mentor,4,4,"Portland, OR"
+8/26/2017 4:41:14,Learner,1,1,"Comibatore, Tamilnadu"
+8/26/2017 5:01:40,Mentor,4,5,"Ankara, Turkey"
+8/26/2017 5:25:18,Learner,1,3,Indonesia
+8/26/2017 5:26:02,Learner,1,2,North Charleston
+8/26/2017 5:41:34,Learner,3,2,"Bangalore, India"
+8/26/2017 7:10:34,Learner,2,3,"London, UK"
+8/26/2017 7:46:03,Learner,3,3,"Ciudad de México, cuajimalpa, Mexico"
+8/26/2017 10:23:46,Learner,1,1,Hyderabad India
+8/26/2017 11:00:03,Learner,4,5,Spain
+8/26/2017 11:20:16,Learner,1,3,"Edinburgh, United Kingdom"
+8/26/2017 12:56:27,Learner,2,3,India
+8/26/2017 14:28:42,Learner,1,5,"Lima, Lima, Perú"
+8/26/2017 15:02:18,Learner,2,3,Denmark
+8/26/2017 16:35:26,Learner,1,2,"Bogotá, Colombia "
+8/26/2017 16:39:05,Learner,3,3,"Brisbane, Australia"
+8/26/2017 18:18:21,Learner,3,3,"St. Louis Park, MN"
+8/26/2017 18:22:56,Learner,1,1,"Aix-en-Provence,BDR,France"
+8/26/2017 18:44:55,Learner,1,2,"Chicago, IL, USA"
+8/26/2017 18:51:06,Mentor,4,4,"Memphis, TN, USA"
+8/26/2017 19:03:03,Learner,1,3,"HENRICO, va"
+8/26/2017 19:45:27,Learner,2,3,New Delhi
+8/26/2017 20:42:04,Learner,2,2,Singapore
+8/27/2017 1:36:09,Learner,1,2,"Chico, CA, USA"
+8/27/2017 3:01:17,Learner,2,3,"Sydney, NSW, Australia"
+8/27/2017 6:57:38,Learner,3,3,"Buffalo, NY"
+8/27/2017 7:02:33,Learner,3,3,"Buffalo, NY"
+8/27/2017 9:14:16,Learner,3,3,"Palo Alto, CA, USA"
+8/27/2017 9:53:11,Learner,3,3,"Las Vegas, NV"
+8/27/2017 10:57:19,Learner,3,3,"Mumbai,Maharashtra,India"
+8/27/2017 12:57:13,Learner,1,1,"Oceanside, CA, USA"
+8/27/2017 14:38:31,Mentor,3,3,"San Jose, CA"
+8/27/2017 15:59:31,Learner,1,4,Buenos Aires Argentina
+8/27/2017 16:42:07,Learner,3,2,"Austin, TX"
+8/27/2017 18:11:26,Learner,1,2,"Mars, Pennsylvania, United States"
+8/27/2017 18:57:36,Mentor,5,5,"Portland, Oregon, United States"
+8/27/2017 19:21:15,Learner,1,2,"Cape Girardeau, Missouri, USA"
+8/27/2017 21:48:38,Mentor,4,5,"New York, NY, USA"
+8/27/2017 22:41:16,Learner,3,2,"India, MP, Indore"
+8/27/2017 23:21:23,Learner,4,3,"Portland, Oregon, United States"
+8/28/2017 0:51:01,Learner,2,3,"New Delhi, India "
+8/28/2017 5:50:32,Learner,2,3,Mumbai india
+8/28/2017 8:20:30,Mentor,3,4,"Maryland, USA"
+8/28/2017 9:08:43,Learner,2,2,China
+8/28/2017 9:17:22,Learner,2,4,"Middlesbrough, UK"
+8/28/2017 9:40:35,Learner,3,3,"Ames, Iowa, USA"
+8/28/2017 10:03:56,Mentor,4,3,"Greenville, SC, USA"
+8/28/2017 10:16:54,Learner,3,3,"Ames, IA, USA"
+8/28/2017 10:55:30,Learner,1,4,"Atlanta, Ga"
+8/28/2017 11:46:25,Learner,2,1,ames iowa 
+8/28/2017 12:37:22,Learner,3,3,"London, UK"
+8/28/2017 13:36:12,Mentor,5,5,"Dartmouth, Nova Scotia, Canada"
+8/28/2017 16:17:31,Learner,2,3,
+8/28/2017 20:32:51,Learner,4,5,Pittsburgh PA
+8/28/2017 20:53:57,Mentor,5,4,"Louisville, KY"
+8/28/2017 23:38:27,Learner,1,2,"Petaling Jaya, Selangor, Malaysia"
+8/28/2017 23:59:38,Learner,3,3,Jakarta Indonesia
+8/29/2017 1:04:37,Learner,3,2,"Peterborough, Cambridgeshire, United Kingdom"
+8/29/2017 6:41:27,Mentor,4,4,"New York, NY"
+8/29/2017 7:17:07,Learner,1,3,"Melbourne, Victoria, Australia"
+8/29/2017 7:24:55,Learner,2,3,"Bangalore, India"
+8/29/2017 7:43:59,Learner,3,3,"Kyiv, Ukraine"
+8/29/2017 8:28:06,Learner,3,3,"Austin, TX, US"
+8/29/2017 8:29:08,Learner,1,2,Singapore
+8/29/2017 9:07:11,Learner,4,4,"Cuiabá, Mato Grosso, Brazil"
+8/29/2017 9:55:13,Learner,2,2,"Chapel Hill, NC, USA"
+8/29/2017 10:13:08,Learner,2,2,"thomaston, CT USA"
+8/29/2017 10:56:27,Learner,1,1,"Louisville, KY"
+8/29/2017 11:02:31,Learner,2,2,"Sao Paulo, Sao Paulo, Brazil"
+8/29/2017 11:05:14,Learner,3,4,"Guatemala City, Guatemala"
+8/29/2017 11:08:03,Mentor,5,3,"Montclair, NJ, USA"
+8/29/2017 11:51:34,Learner,2,2,"Minneapolis, MN"
+8/29/2017 13:55:24,Mentor,5,5,"Eugene, OR, USA"
+8/29/2017 14:34:52,Learner,3,3,Ireland/Italy
+8/29/2017 14:38:07,Mentor,5,3,Hyderabad
+8/29/2017 15:18:31,Learner,2,3,"London, UK"
+8/29/2017 15:24:11,Learner,3,2,North Yorkshire UK
+8/29/2017 15:31:18,Mentor,5,5,"Mexico City, Mexico"
+8/29/2017 15:32:47,Learner,4,3,"Louisville, KY, USA"
+8/29/2017 15:34:49,Learner,3,3,"Lincoln, NE"
+8/29/2017 15:50:51,Learner,1,2,London
+8/29/2017 16:31:03,Mentor,3,4,"Berlin, Germany"
+8/29/2017 18:24:03,Mentor,5,5,"Benito Juárez, Mexico City, México"
+8/29/2017 19:22:32,Learner,2,3,Singapore 
+8/29/2017 19:39:45,Mentor,5,5,"Cherry Hill, NJ, USA"
+8/29/2017 19:44:09,Learner,2,2,"New York, New York"
+8/29/2017 19:45:01,Learner,2,3,"Saint Paul, MN"
+8/29/2017 19:53:16,Learner,1,3,"Boston, MA, United States"
+8/29/2017 20:05:49,Learner,1,2,"Chicago, Illinois, USA"
+8/29/2017 20:48:30,Learner,1,3,"Chardon, Ohio, USA"
+8/29/2017 22:13:13,Learner,1,3,"Cincinnati, OH"
+8/30/2017 1:12:33,Learner,3,3,"SF / Mill Valley, California "
+8/30/2017 4:24:15,Mentor,4,4,"Colombo, Sri Lanka"
+8/30/2017 4:50:33,Learner,1,3,"Germany, NRW, Cologne area"
+8/30/2017 8:04:29,Learner,3,3,"Boston, MA, USA"
+8/30/2017 8:49:04,Learner,1,2,Sierra Leone
+8/30/2017 9:39:04,Learner,2,5,"Barcelona, Anzoategui, Venezuela"
+8/30/2017 10:02:08,Learner,1,1,Paris / France
+8/30/2017 11:16:01,Learner,1,2,"Wakefield, RI, USA"
+8/30/2017 11:25:12,Learner,2,2,"Chicago, Illinois"
+8/30/2017 11:28:43,Learner,4,2,"Delhi, India"
+8/30/2017 11:32:21,Learner,4,4,"Denver, Colorado, USA"
+8/30/2017 11:35:14,Learner,3,3,"Sheridan, WY, USA"
+8/30/2017 11:41:13,Learner,5,4,"Ann Arbor, MI"
+8/30/2017 11:42:41,Mentor,5,5,"Columbus, OH"
+8/30/2017 11:46:19,Learner,3,4,Brasil
+8/30/2017 11:46:31,Mentor,4,4,"Fairfax, VA"
+8/30/2017 11:49:55,Learner,3,4,San Francisco
+8/30/2017 11:53:56,Learner,2,4,"Guaynabo, Puerto Rico"
+8/30/2017 11:59:29,Mentor,5,5,"Solon, OH, United States"
+8/30/2017 12:03:46,Learner,2,2,"San Francisco, Ca"
+8/30/2017 12:16:31,Learner,4,3,"Cincinnati, Ohio, United States"
+8/30/2017 12:15:10,Learner,1,1,"Weyers Cave, VA"
+8/30/2017 12:15:10,Mentor,5,4,"Baltimore, MD, USA"
+8/30/2017 12:17:10,Learner,2,2,"San Francisco, Ca"
+8/30/2017 12:19:16,Mentor,5,5,"Minneapolis, Minnesota, United States of America"
+8/30/2017 12:19:28,Learner,2,2,"Bangalore, KA, India"
+8/30/2017 12:19:41,Learner,3,3,Taipei/Taiwan
+8/30/2017 12:25:20,Mentor,5,5,Toronto
+8/30/2017 12:26:11,Learner,3,3,"Västerås, Sweden"
+8/30/2017 12:27:19,Learner,2,2,"Worcester, MA"
+8/30/2017 12:31:32,Mentor,5,5,"Olympia, Washington, USA"
+8/30/2017 12:45:46,Learner,3,2,"Barcelona, Spain"
+8/30/2017 12:51:40,Learner,1,2,"Appleton, WI"
+8/30/2017 12:54:28,Learner,1,2,"Chicago, IL, USA"
+8/30/2017 12:58:40,Learner,1,4,"Milwaukee, WI, USA"
+8/30/2017 13:10:16,Mentor,5,5,"Durham, NC"
+8/30/2017 13:14:10,Learner,2,2,"Vancouver, BC, Canada"
+8/30/2017 13:30:05,Learner,2,2,İstanbul
+8/30/2017 13:30:35,Learner,2,2,İstanbul
+8/30/2017 13:39:34,Learner,2,2,"London, UK"
+8/30/2017 13:40:23,Mentor,5,5,"Ann Arbor, MI, USA"
+8/30/2017 13:46:15,Learner,3,4,"Texas, Austin, us"
+8/30/2017 13:54:01,Learner,2,4,"Mission Viejo, CA"
+8/30/2017 13:56:40,Learner,1,1,Chennai India
+8/30/2017 14:01:12,Learner,4,3,"San Francisco, CA,USA"
+8/30/2017 14:03:55,Mentor,4,4,"St. Paul, MN"
+8/30/2017 14:07:56,Learner,2,2,"New York, NY, USA"
+8/30/2017 14:19:12,Learner,2,3,"Sunnyvale, CA, USA"
+8/30/2017 14:27:38,Learner,5,3,"Portland, OR, USA"
+8/30/2017 14:38:00,Mentor,5,4,"Lincoln, NE USA"
+8/30/2017 14:44:25,Learner,3,3,"Plovdiv, Bulgaria"
+8/30/2017 14:48:15,Learner,3,3,Singapore
+8/30/2017 14:51:03,Learner,3,3,Anchorage Alaska
+8/30/2017 14:51:05,Mentor,5,5,"Edinburgh, United Kingdom"
+8/30/2017 14:55:01,Learner,2,2,San Francisco
+8/30/2017 15:08:50,Learner,1,3,"Rochester, NY"
+8/30/2017 15:32:43,Mentor,5,5,"Nashville, TN, USA"
+8/30/2017 15:39:03,Learner,2,3,"Holland, MI, USA"
+8/30/2017 15:42:39,Learner,1,3,"Seattle, WA "
+8/30/2017 15:47:35,Learner,1,3,"Vancouver, BC, Canada"
+8/30/2017 15:50:57,Learner,2,2,"Warsaw, Mazowieckie, Poland"
+8/30/2017 16:06:39,Mentor,5,3,"New York, NY USA "
+8/30/2017 16:13:55,Mentor,4,4,"Basel, Switzerland"
+8/30/2017 16:27:02,Mentor,5,5,"Arlington, VA"
+8/30/2017 16:44:20,Learner,3,2,"Sydney, Australia"
+8/30/2017 16:57:27,Learner,2,2,"Bengaluru, Karnataka, India"
+8/30/2017 17:07:10,Learner,2,3,"Houston, Texas"
+8/30/2017 17:23:43,Learner,3,3,"Melbourne, Australia"
+8/30/2017 17:24:14,Learner,1,2,"Ibadan, Nigeria"
+8/30/2017 17:27:35,Learner,4,2,"Hyderabad, India "
+8/30/2017 17:43:37,Learner,4,3,"College Station, Texas, United States"
+8/30/2017 17:47:09,Learner,3,3,"Riverview, FL USA"
+8/30/2017 18:20:33,Learner,2,3,"Perrysburg, Ohio, USA"
+8/30/2017 18:25:12,Learner,3,3,"Peterborough, United Kingdom "
+8/30/2017 18:29:04,Learner,4,3,"Oklahoma City, OK, USA"
+8/30/2017 18:30:07,Learner,2,2,"Sabadell, Barcelona, Spain"
+8/30/2017 18:57:04,Mentor,4,4,"Boston, MA, USA"
+8/30/2017 19:00:09,Learner,2,3,"Valencia, Valencia, Spain"
+8/30/2017 19:07:29,Mentor,4,3,"San Francisco, Ca"
+8/30/2017 19:25:01,Learner,3,2,"Eugene, Oregon, USA"
+8/30/2017 19:44:01,Learner,4,4,"Rio de Janeiro, RJ, Brazil"
+8/30/2017 20:03:35,Learner,5,5,"Oak Park, IL"
+8/30/2017 21:16:27,Learner,3,4,"New York City, NY, U.S."
+8/30/2017 21:56:43,Mentor,4,3,"Bangalore, India"
+8/30/2017 21:57:05,Mentor,4,3,Reno
+8/30/2017 22:10:02,Learner,4,3,Netherlands 
+8/30/2017 22:13:50,Learner,1,1,Hacienda Heights Ca. 91745 USA 
+8/30/2017 22:22:17,Learner,1,3,"Calgary, AB, Canada"
+8/30/2017 22:22:24,Learner,1,1,Venezuela
+8/30/2017 22:42:14,Learner,1,1,"Bangalore, India"
+8/30/2017 22:58:03,Learner,2,2,"Chennai, Tamilnadu, India"
+8/30/2017 23:13:41,Mentor,5,5,"Birmingham, AL, US"
+8/30/2017 23:23:50,Learner,1,4,"Pittsburgh, PA,"
+8/30/2017 23:28:45,Learner,2,4,"Gurgaon, India"
+8/30/2017 23:38:31,Learner,1,3,"Kansas City, MO USA"
+8/30/2017 23:47:38,Learner,4,3,USA
+8/30/2017 23:48:28,,,,
+8/31/2017 0:16:35,Learner,2,3,"Eugene, OR, USA"
+8/31/2017 0:29:23,Learner,1,2,San Francisco
+8/31/2017 0:57:04,Learner,1,2,"Johannesburg, Gauteng, South Africa"
+8/31/2017 0:59:41,Mentor,5,3,"Melbourne, Australia "
+8/31/2017 1:40:55,Learner,1,3,"Melbourne, Victoria, Australia"
+8/31/2017 2:01:22,Learner,2,3,"Bangalore, Karnataka, India "
+8/31/2017 2:11:23,Mentor,5,5,"Eugene, OR, US"
+8/31/2017 2:16:14,Learner,2,3,"Leeds, United Kingdom"
+8/31/2017 2:38:50,Learner,2,2,"Edinburgh, Scotland, UK"
+8/31/2017 2:46:04,Learner,3,3,Singapore
+8/31/2017 3:10:48,Learner,2,3,"Rhyl, Denbighshire, United Kingdom"
+8/31/2017 3:52:25,Learner,2,3,"Leeds, UK"
+8/31/2017 5:09:19,Learner,4,3,"Cardiff, UK"
+8/31/2017 6:31:50,Learner,4,4,"Raleigh, NC, USA"
+8/31/2017 6:45:45,Learner,2,3,"Houston,TX,USA"
+8/31/2017 7:11:11,Learner,1,3,Chicago Illinois
+8/31/2017 7:21:28,Learner,3,3,"Edinburgh, UK"
+8/31/2017 7:26:16,Learner,2,4,"Paris, France"
+8/31/2017 7:38:31,Learner,4,3,"Paris, France"
+8/31/2017 7:47:20,Learner,2,2,"Poznan, Poland"
+8/31/2017 8:08:38,Mentor,3,3,"Milwaukee, WI USA"
+8/31/2017 8:20:14,Learner,2,3,"Bristol, Bristol, United Kingdom"
+8/31/2017 8:22:35,Learner,1,1,Uk
+8/31/2017 8:39:39,Mentor,4,5,New York NY usa
+8/31/2017 8:43:03,Learner,2,3,"Portland, Maine, USA"
+8/31/2017 8:48:18,Learner,3,3,UK
+8/31/2017 9:12:07,Learner,1,1,London
+8/31/2017 9:15:52,Learner,3,3,Cologne
+8/31/2017 9:19:53,Learner,1,4,"Toronto, Ontario, Canada"
+8/31/2017 9:27:37,Learner,3,2,"Huntsville, AL"
+8/31/2017 9:28:42,Learner,1,2,UK
+8/31/2017 9:31:54,Learner,1,3,"New York, New York, USA"
+8/31/2017 9:41:11,Learner,3,3,"Rio de Janeiro/RJ, Brazil"
+8/31/2017 9:55:23,Learner,1,1,"Livermore, ca"
+8/31/2017 10:08:07,Learner,1,1,India
+8/31/2017 10:10:24,Learner,2,2,"Muscatine, Iowa, USA"
+8/31/2017 10:10:31,Learner,2,2,NC
+8/31/2017 10:32:48,Learner,4,4,"Warrensburg, MO, USA"
+8/31/2017 10:39:35,Mentor,3,3,"Eugene, Oregon, USA"
+8/31/2017 10:53:32,Learner,2,4,"Eugene, OR, USA"
+8/31/2017 10:55:45,Learner,3,3,"College Park, MD"
+8/31/2017 11:21:55,Learner,3,3," Nashville, Tn"
+8/31/2017 11:26:15,Learner,1,1,"Eugene, OR, USA"
+8/31/2017 11:28:55,Learner,1,2,"Eugene, OR, USA"
+8/31/2017 11:41:08,Learner,3,2,"Kanpur, U.P., India"
+8/31/2017 11:51:53,Learner,1,2,"Anchorage, AK, USA"
+8/31/2017 11:57:00,Learner,2,3,London
+8/31/2017 12:10:36,Learner,1,2,Venezuela
+8/31/2017 12:42:56,Learner,1,4,"Greenville, SC"
+8/31/2017 12:44:14,Learner,2,3,"Las Vegas, NV, US"
+8/31/2017 12:45:18,Learner,2,1,"Raleigh, NC"
+8/31/2017 13:15:31,Learner,3,3,"St. John's, Newfoundland, Canada"
+8/31/2017 13:20:59,Learner,2,2,Sweden
+8/31/2017 13:28:01,Learner,1,2,"St. John's, NL, Canada"
+8/31/2017 13:33:08,Mentor,4,4,"Boston, MA, US"
+8/31/2017 13:39:23,Learner,2,5,"Phoenix, AZ"
+8/31/2017 13:47:22,Learner,1,3,"Trowbridge, Wiltshire, UK"
+8/31/2017 13:48:55,Learner,1,3,"Trowbridge, Wiltshire, UK"
+8/31/2017 13:49:20,Mentor,4,5,"Würzburg, Germany"
+8/31/2017 13:51:18,Learner,2,2,Edinburgh
+8/31/2017 14:38:08,Learner,2,4,"St. Paul, MN, US"
+8/31/2017 14:38:23,Learner,4,3,"Minneapolis, MN"
+8/31/2017 14:48:57,Learner,2,2,"Ames, Iowa, United States "
+8/31/2017 14:51:42,Learner,3,3,"St. Paul, MN"
+8/31/2017 14:53:07,Mentor,5,5,"Boston,Mass., U.S.A"
+8/31/2017 14:56:29,Learner,2,4,"Minneapolis, MN, USA"
+8/31/2017 14:59:05,Learner,5,4,"Norman, OK, US"
+8/31/2017 15:12:51,Learner,1,3,"Leeds, UK"
+8/31/2017 15:27:57,Mentor,3,3,
+8/31/2017 15:41:03,Mentor,4,5,"Manchester, UK"
+8/31/2017 15:53:43,Mentor,5,5,"Rehovot, Israel"
+8/31/2017 15:56:30,Learner,1,2,"San Francisco, CA"
+8/31/2017 16:07:57,Learner,1,3,"Eugene, OR, USA"
+8/31/2017 16:22:59,Learner,3,1,"Norman, OK, USA"
+8/31/2017 16:23:11,Learner,3,3,"Bangalore, India"
+8/31/2017 17:07:19,Learner,4,3,"Zurich, Switzerland"
+8/31/2017 17:13:06,Learner,2,4,"Governador Valadares, Minas Gerais, Brazil"
+8/31/2017 17:13:24,Learner,1,1,"Bogota, Colombia "
+8/31/2017 17:15:03,Mentor,4,4,"Eugene, Oregon"
+8/31/2017 17:30:39,Learner,1,2,"St. Paul, MN, USA"
+8/31/2017 18:10:07,Learner,5,5,"Bucharest, Romania"
+8/31/2017 18:14:00,Mentor,4,3,"San Francisco, CA, USA"
+8/31/2017 18:35:07,Learner,1,2,"Melbourne,, Victoria, Australia "
+8/31/2017 18:52:30,Learner,1,5,"Melbourne, Victoria, Australia"
+8/31/2017 20:05:49,Learner,3,2,"Portland, Oregon"
+8/31/2017 20:15:20,Mentor,4,4,toronto canada
+8/31/2017 20:18:54,Mentor,3,3,"Chandler,Arizona, USA"
+8/31/2017 20:56:49,Learner,1,1,"Princeton, NJ, USA"
+8/31/2017 21:16:48,Learner,2,4,"Rio de Janeiro, Brazil"
+8/31/2017 21:45:36,Learner,2,2,"Boston, MA"
+8/31/2017 21:52:23,Learner,2,2,CA
+8/31/2017 22:03:59,Learner,2,2,"Houston, TX, USA"
+8/31/2017 22:26:09,Mentor,4,4,"Chicago, IL"
+8/31/2017 22:34:43,Learner,2,2,Australia 
+9/1/2017 0:07:23,Learner,4,3,Rio de Janeiro / RJ / Brazil
+9/1/2017 0:55:35,Learner,1,3,"Forest Park,IL, US"
+9/1/2017 3:29:51,Learner,1,3,"Berlin, germany "
+9/1/2017 3:38:52,Learner,4,4,UK
+9/1/2017 3:49:39,Learner,3,4,"Durham, United Kingdom"
+9/1/2017 4:33:53,Learner,4,3,"Málaga, Spain"

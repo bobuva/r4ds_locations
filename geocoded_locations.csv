@@ -1,0 +1,631 @@
+lon,lat,type,loctype,address,north,south,east,west,locality,administrative_area_level_3,administrative_area_level_2,administrative_area_level_1,country,postal_code,postal_town,street_number,route,neighborhood,postal_code_suffix,colloquial_area,establishment,political,administrative_area_level_4
+-87.9370052,41.8008642,locality,approximate,"hinsdale, il, usa",41.825832,41.7637311,-87.8997579,-87.9524409,Hinsdale,Downers Grove Township,DuPage County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-70.86198499999999,41.99121299999999,locality,approximate,"halifax, ma 02338, usa",42.0266631,41.9484051,-70.806384,-70.912212,Halifax,NA,Plymouth County,Massachusetts,United States,02338,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-80.8431267,35.2270869,locality,approximate,"charlotte, nc, usa",35.39313300000001,35.0131739,-80.670104,-81.0095539,Charlotte,"1, Charlotte",Mecklenburg County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+12.4963655,41.9027835,locality,approximate,"rome, metropolitan city of rome, italy",42.0505462,41.769596,12.7302888,12.341707,Rome,Rome,Metropolitan City of Rome,Lazio,Italy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-89.3985283,40.6331249,administrative_area_level_1,approximate,"illinois, usa",42.5083379,36.970298,-87.01993499999999,-91.5130789,NA,NA,NA,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.10973349999999,42.3736158,locality,approximate,"cambridge, ma, usa",42.4043839,42.3523968,-71.06548719999999,-71.16033209999999,Cambridge,NA,Middlesex County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.3320708,47.6062095,locality,approximate,"seattle, wa, usa",47.734145,47.4919119,-122.2244331,-122.4596959,Seattle,NA,King County,Washington,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.7197785,34.0966764,locality,approximate,"claremont, ca, usa",34.165319,34.0794099,-117.677745,-117.7507929,Claremont,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-121.8863286,37.3382082,locality,approximate,"san jose, ca, usa",37.4695381,37.124493,-121.589154,-122.0456719,San Jose,NA,Santa Clara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104.195397,35.86166,country,approximate,china,53.56097399999999,17.9996,134.7728099,73.4994136,NA,NA,NA,NA,China,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-94.5785667,39.0997265,locality,approximate,"kansas city, mo, usa",39.356662,38.827176,-94.385522,-94.765917,Kansas City,NA,Jackson County,Missouri,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-108.5006904,45.7832856,locality,approximate,"billings, mt, usa",45.85315900000001,45.7106799,-108.435863,-108.691506,Billings,NA,Yellowstone County,Montana,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25.7481511,61.92410999999999,country,approximate,finland,70.0922932,59.693623,31.5870999,20.4565002,NA,NA,NA,NA,Finland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.13306829999999,33.2148412,locality,approximate,"denton, tx, usa",33.358306,33.116875,-97.0238129,-97.2664899,Denton,NA,Denton County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.1610838,32.715738,locality,approximate,"san diego, ca, usa",33.114249,32.534856,-116.90816,-117.3097969,San Diego,NA,San Diego County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-106.346771,56.130366,country,approximate,canada,70,42,-50,-142,NA,NA,NA,NA,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-81.5157535,27.6648274,administrative_area_level_1,approximate,"florida, usa",32.3607674,22.8285924,-77.8049338,-89.8042682,NA,NA,NA,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.6876659,43.467517,locality,approximate,"oakville, on, canada",43.5280029,43.36789,-79.437781,-79.810982,Oakville,NA,Halton Regional Municipality,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.0947092,38.984652,locality,approximate,"bethesda, md, usa",39.0226339,38.940586,-77.0785925,-77.1585612,Bethesda,7,Montgomery County,Maryland,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-82.4571776,27.950575,locality,approximate,"tampa, fl, usa",28.1714781,27.817487,-82.2597409,-82.64882,Tampa,NA,Hillsborough County,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37.6172999,55.755826,locality,approximate,"moscow, russia",56.009657,55.48992699999999,37.9456611,37.3193289,Moscow,NA,Moskva,NA,Russia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-58.3815591,-34.6036844,locality,approximate,"buenos aires, argentina",-34.5265464,-34.7051011,-58.33514470000001,-58.5314522,Buenos Aires,NA,NA,Buenos Aires,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.6764815,45.5230622,locality,approximate,"portland, or, usa",45.654424,45.432393,-122.4718489,-122.8369952,Portland,NA,Multnomah County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-86.158068,39.768403,locality,approximate,"indianapolis, in, usa",39.927392,39.632177,-85.9373789,-86.32812109999999,Indianapolis,NA,Marion County,Indiana,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-82.4571776,27.950575,locality,approximate,"tampa, fl, usa",28.1714781,27.817487,-82.2597409,-82.64882,Tampa,NA,Hillsborough County,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.1207375,49.2827291,locality,approximate,"vancouver, bc, canada",49.3172939,49.19817700000001,-123.023068,-123.22474,Vancouver,NA,Greater Vancouver,British Columbia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27.142826,38.423734,locality,approximate,"izmir, izmir, turkey",38.5452371,38.290113,27.304485,26.8549491,Izmir,NA,NA,İzmir,Turkey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174.7633315,-36.8484597,locality,approximate,"auckland, new zealand",-36.660571,-37.0654751,175.2871371,174.4438016,Auckland,NA,NA,Auckland,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-72.9278835,41.308274,locality,approximate,"new haven, ct, usa",41.35038,41.2461968,-72.8601438,-72.998048,New Haven,NA,New Haven County,Connecticut,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-80.1844243,40.5364846,locality,approximate,"sewickley, pa 15143, usa",40.5497098,40.5300669,-80.1546534,-80.1948809,Sewickley,NA,Allegheny County,Pennsylvania,United States,15143,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.0368707,38.9071923,locality,approximate,"washington, dc, usa",38.995548,38.7916449,-76.909393,-77.119759,Washington,NA,District of Columbia,District of Columbia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.5616448,37.9746458,locality,approximate,"san anselmo, ca 94960, usa",37.999722,37.967223,-122.5500579,-122.58679,San Anselmo,NA,Marin County,California,United States,94960,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.3522219,48.856614,locality,approximate,"paris, france",48.9021449,48.815573,2.4699208,2.224199,Paris,NA,Paris,Île-de-France,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11.5819805,48.1351253,locality,approximate,"munich, germany",48.2482197,48.0616018,11.7228755,11.360796,Munich,NA,Upper Bavaria,Bavaria,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101.975766,4.210484,country,approximate,malaysia,7.819846999999999,0.461421,119.813461,99.42283599999999,NA,NA,NA,NA,Malaysia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.6594267,1.5343616,locality,approximate,"skudai, johor, malaysia",1.5775849,1.4999683,103.7006678,103.6070021,Skudai,NA,NA,Johor,Malaysia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.2711137,37.8043637,locality,approximate,"oakland, ca, usa",37.88472489999999,37.6322259,-122.114775,-122.355881,Oakland,NA,Alameda County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73.0931461,33.7293882,locality,approximate,"islamabad, pakistan",33.7566789,33.5815902,73.1771194,72.7928352,Islamabad,NA,Islamabad District,Islamabad Capital Territory,Pakistan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36.8219462,-1.2920659,locality,approximate,"nairobi, kenya",-1.164744,-1.4448631,37.0493746,36.6454191,Nairobi,NA,NA,Nairobi County,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76.9366376,8.5241391,locality,approximate,"thiruvananthapuram, kerala, india",8.6127611,8.3867048,77.0070362,76.84129709999999,Thiruvananthapuram,NA,Thiruvananthapuram,Kerala,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75.7138884,15.3172775,administrative_area_level_1,approximate,"karnataka, india",18.4411689,11.593352,78.5860101,74.04960609999999,NA,NA,NA,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.3879824,33.7489954,locality,approximate,"atlanta, ga, usa",33.8876179,33.6478079,-84.289389,-84.5518189,Atlanta,NA,Fulton County,Georgia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.188267,55.953252,locality,approximate,"edinburgh, uk",55.9919939,55.8904228,-3.0776588,-3.3330187,Edinburgh,NA,Edinburgh,Scotland,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.272747,37.8715926,locality,approximate,"berkeley, ca, usa",37.9058239,37.835727,-122.234179,-122.367781,Berkeley,NA,Alameda County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.1610838,32.715738,locality,approximate,"san diego, ca, usa",33.114249,32.534856,-116.90816,-117.3097969,San Diego,NA,San Diego County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21.0122287,52.2296756,locality,approximate,"warsaw, poland",52.3679992,52.0978767,21.2710984,20.8512898,Warsaw,NA,Warszawa,Masovian Voivodeship,Poland,05,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.1430195,37.4418834,locality,approximate,"palo alto, ca, usa",37.4712,37.3801,-122.0765,-122.1942,Palo Alto,NA,Santa Clara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.712891,37.09024,country,approximate,united states,49.38,25.82,-66.94,-124.39,NA,NA,NA,NA,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5.291265999999999,52.132633,country,approximate,netherlands,53.6756,50.7503837,7.227140500000001,3.3316,NA,NA,NA,NA,Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4.895167900000001,52.3702157,locality,approximate,"amsterdam, netherlands",52.4311573,52.3182742,5.0683903,4.7288558,Amsterdam,NA,Government of Amsterdam,North Holland,Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.2620435,44.5645659,locality,approximate,"corvallis, or, usa",44.606254,44.5196909,-123.2308399,-123.3362331,Corvallis,NA,Benton County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-2.58791,51.454513,locality,approximate,"bristol, uk",51.5444326,51.39254529999999,-2.4509024,-2.7305164,Bristol,NA,City of Bristol,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-117.000165,46.73238749999999,locality,approximate,"moscow, id, usa",46.758882,46.71091209999999,-116.962068,-117.0396979,Moscow,NA,Latah County,Idaho,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5.291265999999999,52.132633,country,approximate,netherlands,53.6756,50.7503837,7.227140500000001,3.3316,NA,NA,NA,NA,Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10.451526,51.165691,country,approximate,germany,55.0815,47.2701115,15.0418962,5.8663425,NA,NA,NA,NA,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.61778,54.978252,locality,approximate,"newcastle upon tyne, uk",55.0453044,54.9594399,-1.5326051,-1.7810817,Newcastle upon Tyne,NA,Tyne and Wear,England,United Kingdom,NA,Newcastle upon Tyne,NA,NA,NA,NA,NA,NA,NA,NA
+15.9819189,45.8150108,locality,approximate,"zagreb, croatia",45.9395392,45.7408527,16.1069727,15.8216904,Zagreb,NA,NA,NA,Croatia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.7037902,40.4167754,locality,approximate,"madrid, spain",40.5638447,40.3120639,-3.5249115,-3.8341618,Madrid,NA,Madrid,Community of Madrid,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.62738569999999,43.1696275,establishment,rooftop,"275 lake ave, rochester, ny 14608, usa",43.17097648029149,43.16827851970849,-77.6260367197085,-77.6287346802915,Rochester,NA,Monroe County,New York,United States,14608,NA,275,Lake Avenue,Edgerton,1042,NA,NA,NA,NA
+11.8767611,45.4064349,locality,approximate,"padua, province of padua, italy",45.4575002,45.3555073,11.9728649,11.809626,Padua,Padua,Province of Padua,Veneto,Italy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-88.1070127,41.8661403,locality,approximate,"wheaton, il, usa",41.8889561,41.8183339,-88.075391,-88.1515551,Wheaton,Milton Township,DuPage County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153.0251235,-27.4697707,colloquial_area,approximate,"brisbane qld, australia",-26.9968449,-27.7674409,153.3178702,152.6685227,NA,NA,NA,Queensland,Australia,NA,NA,NA,NA,NA,NA,Brisbane,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-4.7793835,37.8881751,locality,approximate,"córdoba, spain",37.9272788,37.8558932,-4.7461769,-4.8227937,Córdoba,NA,Córdoba,Andalusia,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-72.66897999999999,42.266757,locality,approximate,"easthampton, ma, usa",42.291761,42.2230408,-72.613034,-72.7366299,Easthampton,NA,Hampshire County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-80.1289321,26.3683064,locality,approximate,"boca raton, fl, usa",26.4249029,26.3207559,-80.063664,-80.1710669,Boca Raton,NA,Palm Beach County,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.6903316,44.38935559999999,locality,approximate,"barrie, on, canada",44.424403,44.2938755,-79.5858192,-79.7456249,Barrie,NA,Simcoe County,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.1585777,38.049365,locality,approximate,"benicia, ca, usa",38.1111151,38.0322491,-122.10376,-122.1985039,Benicia,NA,Solano County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-9.0567905,53.270668,locality,approximate,"galway, ireland",53.31947049999999,53.2483525,-8.9548057,-9.1426873,Galway,NA,NA,County Galway,Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76.26730409999999,9.9312328,locality,approximate,"kochi, kerala, india",10.0965153,9.780706600000002,76.4384936,76.2023735,Kochi,NA,Ernakulam,Kerala,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.61778,54.978252,locality,approximate,"newcastle upon tyne, uk",55.0453044,54.9594399,-1.5326051,-1.7810817,Newcastle upon Tyne,NA,Tyne and Wear,England,United Kingdom,NA,Newcastle upon Tyne,NA,NA,NA,NA,NA,NA,NA,NA
+-43.93523760000001,-19.9245018,administrative_area_level_2,approximate,"belo horizonte - state of minas gerais, brazil",-19.7760434,-20.0596992,-43.8573101,-44.0633132,NA,NA,Belo Horizonte,State of Minas Gerais,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-65.2175903,-26.8082848,locality,approximate,"san miguel de tucumán, tucumán, argentina",-26.7636022,-26.9021156,-65.1622514,-65.2829359,San Miguel de Tucumán,NA,Capital Department,Tucumán,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-72.5198537,42.3732216,locality,approximate,"amherst, ma, usa",42.433715,42.301514,-72.46418589999999,-72.546796,Amherst,Belchertown,Hampshire County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-75.6274583,40.0325817,locality,approximate,"exton, pa 19341, usa",40.045268,40.0149288,-75.60788079999999,-75.65336990000002,Exton,West Whiteland Township,Chester County,Pennsylvania,United States,19341,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.213749,46.227638,country,approximate,france,51.1241999,41.3253001,9.6624999,-5.5591,NA,NA,NA,NA,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-2.5144829,50.947822,locality,approximate,"sherborne dt9, uk",50.9634491,50.9372503,-2.4951404,-2.5435319,Sherborne,NA,Dorset,England,United Kingdom,DT9,Sherborne,NA,NA,NA,NA,NA,NA,NA,NA
+-81.3792365,28.5383355,locality,approximate,"orlando, fl, usa",28.6143519,28.3479859,-81.22977,-81.50773,Orlando,NA,Orange County,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139.6917064,35.6894875,administrative_area_level_1,approximate,"tokyo, japan",35.817813,35.528873,139.910202,139.510574,NA,NA,NA,Tokyo,Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.10249019999999,28.7040592,administrative_area_level_1,approximate,"delhi, india",28.881338,28.412593,77.3484578,76.83806899999999,NA,NA,NA,Delhi,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-49.26478849999999,-16.6868824,administrative_area_level_2,approximate,"goiânia - state of goiás, brazil",-16.4536731,-16.8319637,-49.0780227,-49.44691049999999,NA,NA,Goiânia,State of Goiás,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.712891,37.09024,country,approximate,united states,49.38,25.82,-66.94,-124.39,NA,NA,NA,NA,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.042754,-12.0463731,colloquial_area,approximate,"lima, peru",-11.7999875,-12.2532891,-76.78833970000001,-77.1872186,NA,NA,NA,Callao Region,Peru,NA,NA,NA,NA,NA,NA,Lima,NA,NA,NA
+-96.79698789999999,32.7766642,locality,approximate,"dallas, tx, usa",33.0237921,32.617537,-96.4637379,-96.999347,Dallas,NA,Dallas County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-76.87552819999999,39.0045544,locality,approximate,"greenbelt, md, usa",39.014476,38.971759,-76.8588429,-76.919866,Greenbelt,Berwyn,Prince George's County,Maryland,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19.8186982,41.3275459,locality,approximate,"tirana, albania",41.36684109999999,41.29512330000001,19.8820782,19.7535682,Tirana,NA,Tirana,Tirana County,Albania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19.8186982,41.3275459,locality,approximate,"tirana, albania",41.36684109999999,41.29512330000001,19.8820782,19.7535682,Tirana,NA,Tirana,Tirana County,Albania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6.5665017,53.2193835,locality,approximate,"groningen, netherlands",53.26472589999999,53.1786842,6.6669044,6.4625995,Groningen,NA,Groningen,Groningen,Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-94.17185420000001,36.082156,locality,approximate,"fayetteville, ar, usa",36.1489366,35.9893592,-94.0267064,-94.2977781,Fayetteville,Fayetteville Township,Washington County,Arkansas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.584852,54.77525,locality,approximate,"durham, uk",54.827611,54.7358989,-1.4974256,-1.6070484,Durham,NA,County Durham,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-4.224721,57.477773,locality,approximate,"inverness, uk",57.496112,57.4398806,-4.1732932,-4.2704223,Inverness,NA,Highland,Scotland,United Kingdom,NA,Inverness,NA,NA,NA,NA,NA,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-7.692053599999999,53.1423672,establishment,approximate,ireland,55.38294149999999,51.4475448,-5.431909999999999,-10.4800237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ireland,NA,NA
+-75.1652215,39.9525839,locality,approximate,"philadelphia, pa, usa",40.1379919,39.8670041,-74.9557629,-75.280303,Philadelphia,NA,Philadelphia County,Pennsylvania,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.1207375,49.2827291,locality,approximate,"vancouver, bc, canada",49.3172939,49.19817700000001,-123.023068,-123.22474,Vancouver,NA,Greater Vancouver,British Columbia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-2.3599039,51.375801,locality,approximate,"bath, uk",51.4117741,51.3484788,-2.3149068,-2.4141532,Bath,NA,Bath and North East Somerset,England,United Kingdom,NA,Bath,NA,NA,NA,NA,NA,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36.8219462,-1.2920659,locality,approximate,"nairobi, kenya",-1.164744,-1.4448631,37.0493746,36.6454191,Nairobi,NA,NA,Nairobi County,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75.06929520000001,24.076836,locality,approximate,"mandsaur, madhya pradesh, india",24.094464,24.0522838,75.0831413,75.0441716,Mandsaur,NA,Mandsaur,Madhya Pradesh,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-96.79698789999999,32.7766642,locality,approximate,"dallas, tx, usa",33.0237921,32.617537,-96.4637379,-96.999347,Dallas,NA,Dallas County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6.1319346,49.61162100000001,locality,approximate,"luxembourg city, luxembourg",49.6549299,49.56028000000001,6.202720100000001,6.06902,Luxembourg City,NA,Luxembourg,Luxembourg District,Luxembourg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-119.8138027,39.5296329,locality,approximate,"reno, nv, usa",39.723436,39.3924261,-119.6993449,-120.0023379,Reno,NA,Washoe County,Nevada,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.3522219,48.856614,locality,approximate,"paris, france",48.9021449,48.815573,2.4699208,2.224199,Paris,NA,Paris,Île-de-France,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.3522219,48.856614,locality,approximate,"paris, france",48.9021449,48.815573,2.4699208,2.224199,Paris,NA,Paris,Île-de-France,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-76.5018807,42.4439614,locality,approximate,"ithaca, ny, usa",42.4670791,42.41832700000001,-76.469803,-76.5269469,Ithaca,Ithaca,Tompkins County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.24253329999999,-39.8173788,locality,approximate,"valdivia, los ríos region, chile",-39.7834836,-39.8627958,-73.17006239999999,-73.28293479999999,Valdivia,Valdivia,Valdivia Province,Los Ríos Region,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.8783689,42.88644679999999,locality,approximate,"buffalo, ny, usa",42.9664549,42.826023,-78.795157,-78.9337276,Buffalo,NA,Erie County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.0368707,38.9071923,locality,approximate,"washington, dc, usa",38.995548,38.7916449,-76.909393,-77.119759,Washington,NA,District of Columbia,District of Columbia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-68.11929359999999,-16.489689,locality,approximate,"la paz, bolivia",-16.4245596,-16.6168651,-68.01129329999999,-68.23686169999999,La Paz,NA,NA,La Paz Department,Bolivia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3.3792057,6.5243793,locality,approximate,"lagos, nigeria",6.7027984,6.393351099999999,3.696727799999999,3.0982732,Lagos,NA,NA,Lagos,Nigeria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-8.4863157,51.8968917,locality,approximate,"cork, ireland",51.93586,51.8561501,-8.380579899999999,-8.54552,Cork,NA,NA,County Cork,Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57.55215200000001,-20.348404,country,approximate,mauritius,-18.7763,-21.637,59.5844,55.7666,NA,NA,NA,NA,Mauritius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72.8776559,19.0759837,locality,approximate,"mumbai, maharashtra, india",19.2716339,18.8928676,72.9864994,72.7758729,Mumbai,NA,Mumbai,Maharashtra,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.4128343,41.8239891,locality,approximate,"providence, ri, usa",41.861571,41.772414,-71.3696939,-71.472667,Providence,NA,Providence County,Rhode Island,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54.3773438,24.453884,locality,approximate,abu dhabi - united arab emirates,24.621895,24.1517661,54.8509598,54.2662811,Abu Dhabi,NA,NA,Abu Dhabi,United Arab Emirates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.9958864,40.44062479999999,locality,approximate,"pittsburgh, pa, usa",40.501368,40.3613689,-79.8657231,-80.0952779,Pittsburgh,NA,Allegheny County,Pennsylvania,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-75.1652215,39.9525839,locality,approximate,"philadelphia, pa, usa",40.1379919,39.8670041,-74.9557629,-75.280303,Philadelphia,NA,Philadelphia County,Pennsylvania,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.3812562,34.187044,neighborhood,approximate,"north hollywood, los angeles, ca, usa",34.2156039,34.16824,-118.3445111,-118.4275148,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,North Hollywood,NA,NA,NA,NA,NA
+-8.426506999999999,41.5454486,locality,approximate,"braga, portugal",41.5841477,41.510402,-8.3421791,-8.4806633,Braga,NA,NA,Braga,Portugal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-42.8785788,-20.7548659,locality,approximate,"viçosa, mg, 36570-000, brazil",-20.7052675,-20.7858609,-42.855102,-42.910799,Viçosa,NA,Viçosa,Minas Gerais,Brazil,36570-000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.3762881,39.4699075,locality,approximate,"valencia, spain",39.5073225,39.308248,-0.2914778,-0.4315448,Valencia,NA,Valencia,Valencian Community,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.13306829999999,33.2148412,locality,approximate,"denton, tx, usa",33.358306,33.116875,-97.0238129,-97.2664899,Denton,NA,Denton County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-63.5752387,44.64876350000001,administrative_area_level_2,approximate,"halifax regional municipality, ns, canada",45.2761,42.1770179,-58.227553,-64.2371771,NA,NA,Halifax Regional Municipality,Nova Scotia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-90.0715323,29.95106579999999,locality,approximate,"new orleans, la, usa",30.199332,29.8666609,-89.625053,-90.14007389999999,New Orleans,NA,Orleans Parish,Louisiana,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-74.4310524,40.6808726,locality,approximate,"berkeley heights, nj, usa",40.698754,40.654202,-74.3794499,-74.46123089999999,Berkeley Heights,NA,Union County,New Jersey,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-119.6981901,34.4208305,locality,approximate,"santa barbara, ca, usa",34.4611451,34.336029,-119.6399201,-119.859791,Santa Barbara,NA,Santa Barbara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-80.244216,36.09985959999999,locality,approximate,"winston-salem, nc, usa",36.212599,35.996545,-80.1009689,-80.3859469,Winston-Salem,Winston,Forsyth County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-121.4943996,38.5815719,locality,approximate,"sacramento, ca, usa",38.685507,38.437574,-121.325705,-121.56012,Sacramento,NA,Sacramento County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.898619,35.9940329,locality,approximate,"durham, nc, usa",36.1369289,35.8667249,-78.762172,-79.00765,Durham,NA,Durham County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.10249019999999,28.7040592,administrative_area_level_1,approximate,"delhi, india",28.881338,28.412593,77.3484578,76.83806899999999,NA,NA,NA,Delhi,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73.8567437,18.5204303,locality,approximate,"pune, maharashtra, india",18.6357545,18.4134784,73.9864569,73.7394779,Pune,NA,Pune,Maharashtra,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.678896,30.5082551,locality,approximate,"round rock, tx, usa",30.584496,30.4684358,-97.590564,-97.755473,Round Rock,NA,Williamson County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-89.6501481,39.78172130000001,locality,approximate,"springfield, il, usa",39.874049,39.6536259,-89.5684858,-89.7731769,Springfield,NA,Sangamon County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-119.6981901,34.4208305,locality,approximate,"santa barbara, ca, usa",34.4611451,34.336029,-119.6399201,-119.859791,Santa Barbara,NA,Santa Barbara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.9441579,40.6781784,political,approximate,"brooklyn, ny, usa",40.739446,40.551042,-73.8333651,-74.05663,NA,NA,Kings County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,Brooklyn,NA
+-80.1917902,25.7616798,locality,approximate,"miami, fl, usa",25.855773,25.709042,-80.139157,-80.3197599,Miami,NA,Miami-Dade County,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-6.2603097,53.3498053,locality,approximate,"dublin, ireland",53.42521010000001,53.22343009999999,-6.0439235,-6.4474847,Dublin,NA,NA,County Dublin,Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.3320708,47.6062095,locality,approximate,"seattle, wa, usa",47.734145,47.4919119,-122.2244331,-122.4596959,Seattle,NA,King County,Washington,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-116.2146068,43.6187102,locality,approximate,"boise, id, usa",43.6898951,43.511717,-116.1019091,-116.3658869,Boise,NA,Ada County,Idaho,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.819836,1.352083,country,approximate,singapore,1.4784001,1.1496,104.0945001,103.594,NA,NA,NA,NA,Singapore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.4056612,40.0583238,administrative_area_level_1,approximate,"new jersey, usa",41.357423,38.788657,-73.88506,-75.5635861,NA,NA,NA,New Jersey,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.9441579,40.6781784,political,approximate,"brooklyn, ny, usa",40.739446,40.551042,-73.8333651,-74.05663,NA,NA,Kings County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,Brooklyn,NA
+-77.0368707,38.9071923,locality,approximate,"washington, dc, usa",38.995548,38.7916449,-76.909393,-77.119759,Washington,NA,District of Columbia,District of Columbia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80.2707184,13.0826802,locality,approximate,"chennai, tamil nadu, india",13.2611661,12.8338848,80.33632279999999,80.0817007,Chennai,NA,Chennai,Tamil Nadu,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88.36389500000001,22.572646,locality,approximate,"kolkata, west bengal, india",23.0083628,22.3436288,88.5428696,88.1165879,Kolkata,NA,Kolkata,West Bengal,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-96.91018059999999,19.5437751,locality,approximate,"xalapa, ver., mexico",19.5995077,19.4845915,-96.7989731,-96.9708428,Xalapa,NA,NA,Veracruz,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74.12399599999999,15.2993265,administrative_area_level_1,approximate,"goa, india",15.799917,14.8945089,74.3405329,73.684082,NA,NA,NA,Goa,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.3320708,47.6062095,locality,approximate,"seattle, wa, usa",47.734145,47.4919119,-122.2244331,-122.4596959,Seattle,NA,King County,Washington,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117.3616476,39.3433574,locality,approximate,"tianjin, china",39.4468325,38.8032309,117.8118896,116.7791748,Tianjin,NA,NA,Tianjin,China,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-6.2603097,53.3498053,locality,approximate,"dublin, ireland",53.42521010000001,53.22343009999999,-6.0439235,-6.4474847,Dublin,NA,NA,County Dublin,Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.134706,54.601276,locality,approximate,"keswick ca12, uk",54.61398029999999,54.5910713,-3.1040351,-3.1565245,Keswick,NA,Cumbria,England,United Kingdom,CA12,Keswick,NA,NA,NA,NA,NA,NA,NA,NA
+-60.0217314,-3.1190275,locality,approximate,"manaus, state of amazonas, brazil",-2.9269379,-3.1623862,-59.8186489,-60.1155589,Manaus,NA,Manaus,State of Amazonas,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10.7522454,59.9138688,locality,approximate,"oslo, norway",59.978035,59.8096749,10.9476641,10.6225689,Oslo,NA,NA,Oslo,Norway,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-46.63330939999999,-23.5505199,locality,approximate,"são paulo, state of são paulo, brazil",-23.3566039,-24.0082209,-46.3650844,-46.825514,São Paulo,NA,São Paulo,State of São Paulo,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-83.7430378,42.2808256,locality,approximate,"ann arbor, mi, usa",42.3239728,42.222668,-83.6758069,-83.799572,Ann Arbor,NA,Washtenaw County,Michigan,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-47.0625812,-22.9098833,administrative_area_level_2,approximate,"campinas - state of são paulo, brazil",-22.7291934,-23.0610564,-46.815276,-47.2452456,NA,NA,Campinas,State of São Paulo,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28.0473051,-26.2041028,locality,approximate,"johannesburg, south africa",-26.1041199,-26.2389231,28.1376001,27.942449,Johannesburg,NA,City of Johannesburg Metropolitan Municipality,Gauteng,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.567256,45.5016889,locality,approximate,"montreal, qc, canada",45.7058381,45.410246,-73.47426,-73.986345,Montreal,NA,Montreal,Quebec,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.585292,40.3382543,administrative_area_level_3,approximate,"plainsboro township, nj, usa",40.366605,40.2995229,-74.5453519,-74.6301009,NA,Plainsboro Township,Middlesex County,New Jersey,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-90.5068824,14.6349149,locality,approximate,"guatemala city, guatemala",14.7012545,14.5511856,-90.39645209999999,-90.5886688,Guatemala City,NA,NA,Guatemala Department,Guatemala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21.6273124,47.5316049,locality,approximate,"debrecen, hungary",47.6369639,47.4248649,21.883706,21.4366579,Debrecen,NA,NA,NA,Hungary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.3879824,33.7489954,locality,approximate,"atlanta, ga, usa",33.8876179,33.6478079,-84.289389,-84.5518189,Atlanta,NA,Fulton County,Georgia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.3879824,33.7489954,locality,approximate,"atlanta, ga, usa",33.8876179,33.6478079,-84.289389,-84.5518189,Atlanta,NA,Fulton County,Georgia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.63191309999999,42.0307812,locality,approximate,"ames, ia, usa",42.076253,41.975428,-93.5542299,-93.698523,Ames,NA,Story County,Iowa,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-118.1937395,33.7700504,locality,approximate,"long beach, ca, usa",33.8854591,33.690593,-118.063253,-118.248966,Long Beach,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-83.7430378,42.2808256,locality,approximate,"ann arbor, mi, usa",42.3239728,42.222668,-83.6758069,-83.799572,Ann Arbor,NA,Washtenaw County,Michigan,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.3698028,29.7604267,locality,approximate,"houston, tx, usa",30.1107319,29.523624,-95.014496,-95.78808690000001,Houston,NA,Harris County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-76.87552819999999,39.0045544,locality,approximate,"greenbelt, md, usa",39.014476,38.971759,-76.8588429,-76.919866,Greenbelt,Berwyn,Prince George's County,Maryland,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-89.3985283,40.6331249,administrative_area_level_1,approximate,"illinois, usa",42.5083379,36.970298,-87.01993499999999,-91.5130789,NA,NA,NA,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.2090212,28.6139391,locality,approximate,"new delhi, delhi, india",28.65048,28.4041,77.3449601,77.07301009999999,New Delhi,NA,NA,Delhi,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.6876659,43.467517,locality,approximate,"oakville, on, canada",43.5280029,43.36789,-79.437781,-79.810982,Oakville,NA,Halton Regional Municipality,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-58.3815591,-34.6036844,locality,approximate,"buenos aires, argentina",-34.5265464,-34.7051011,-58.33514470000001,-58.5314522,Buenos Aires,NA,NA,Buenos Aires,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-6.2603097,53.3498053,locality,approximate,"dublin, ireland",53.42521010000001,53.22343009999999,-6.0439235,-6.4474847,Dublin,NA,NA,County Dublin,Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-119.6981901,34.4208305,locality,approximate,"santa barbara, ca, usa",34.4611451,34.336029,-119.6399201,-119.859791,Santa Barbara,NA,Santa Barbara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75.8577258,22.7195687,locality,approximate,"indore, madhya pradesh, india",22.8348736,22.6130719,75.9619939,75.7657059,Indore,NA,Indore,Madhya Pradesh,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-116.2146068,43.6187102,locality,approximate,"boise, id, usa",43.6898951,43.511717,-116.1019091,-116.3658869,Boise,NA,Ada County,Idaho,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-116.2146068,43.6187102,locality,approximate,"boise, id, usa",43.6898951,43.511717,-116.1019091,-116.3658869,Boise,NA,Ada County,Idaho,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1.0789089,51.280233,locality,approximate,"canterbury, uk",51.3061023,51.25098550000001,1.1237432,1.0439585,Canterbury,NA,Kent,England,United Kingdom,NA,Canterbury,NA,NA,NA,NA,NA,NA,NA,NA
+-115.1398296,36.1699412,locality,approximate,"las vegas, nv, usa",36.3,35.95,-114.95,-115.4,Las Vegas,NA,Clark County,Nevada,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6.024053899999999,47.237829,locality,approximate,"25000 besançon, france",47.3197439,47.2006871,6.0836499,5.9408869,Besançon,NA,Doubs,Bourgogne-Franche-Comté,France,25000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.283414,51.94921,locality,approximate,"hitchin, uk",51.9778983,51.9351065,-0.2373602,-0.3151469,Hitchin,NA,Hertfordshire,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151.7816802,-32.9282712,colloquial_area,approximate,"newcastle nsw, australia",-32.832869,-33.120457,151.824399,151.5550015,NA,NA,NA,New South Wales,Australia,NA,NA,NA,NA,NA,NA,Newcastle,NA,NA,NA
+-118.2436849,34.0522342,locality,approximate,"los angeles, ca, usa",34.3373061,33.7036519,-118.1552891,-118.6681759,Los Angeles,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-121.8374777,39.7284944,locality,approximate,"chico, ca, usa",39.816935,39.6987579,-121.7132931,-121.898508,Chico,NA,Butte County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.6381787,35.7795897,locality,approximate,"raleigh, nc, usa",35.97172800000001,35.7158079,-78.471063,-78.8190489,Raleigh,NA,Wake County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.0469214,38.8048355,locality,approximate,"alexandria, va, usa",38.845011,38.785216,-77.0372879,-77.144359,Alexandria,Mason,NA,Virginia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139.6917064,35.6894875,administrative_area_level_1,approximate,"tokyo, japan",35.817813,35.528873,139.910202,139.510574,NA,NA,NA,Tokyo,Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151.2092955,-33.8688197,colloquial_area,approximate,"sydney nsw, australia",-33.5781409,-34.118347,151.3430209,150.5209286,NA,NA,NA,New South Wales,Australia,NA,NA,NA,NA,NA,NA,Sydney,NA,NA,NA
+53.847818,23.424076,country,approximate,united arab emirates,26.0765,22.6315138,56.4395001,51.4723,NA,NA,NA,NA,United Arab Emirates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-8.224454,39.39987199999999,country,approximate,portugal,42.1543111,32.2895,-6.189159200000001,-31.4647999,NA,NA,NA,NA,Portugal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-5.9844589,37.3890924,locality,approximate,"seville, spain",37.4355212,37.3152203,-5.8884587,-6.0216578,Seville,NA,Seville,Andalusia,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.1804988,8.5698244,locality,approximate,"merida, mérida, venezuela",8.6325337,8.550806399999999,-71.1248876,-71.2217046,Merida,NA,Libertador,Mérida,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.042754,-12.0463731,colloquial_area,approximate,"lima, peru",-11.7999875,-12.2532891,-76.78833970000001,-77.1872186,NA,NA,NA,Callao Region,Peru,NA,NA,NA,NA,NA,NA,Lima,NA,NA,NA
+-66.58973,6.42375,country,approximate,venezuela,12.770409,0.5438179,-59.80378,-73.4255611,NA,NA,NA,NA,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.121817,52.205337,locality,approximate,"cambridge, uk",52.237855,52.1598292,0.1919273,0.048047,Cambridge,NA,Cambridgeshire,England,United Kingdom,NA,Cambridge,NA,NA,NA,NA,NA,NA,NA,NA
+-87.68769689999999,42.0450722,locality,approximate,"evanston, il, usa",42.0718018,42.01903009999999,-87.665297,-87.7326599,Evanston,Evanston Township,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-68.11929359999999,-16.489689,locality,approximate,"la paz, bolivia",-16.4245596,-16.6168651,-68.01129329999999,-68.23686169999999,La Paz,NA,NA,La Paz Department,Bolivia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.584852,54.77525,locality,approximate,"durham, uk",54.827611,54.7358989,-1.4974256,-1.6070484,Durham,NA,County Durham,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.285787,1.2058837,locality,approximate,"pasto, narino, colombia",1.2484529,1.178598,-77.24383,-77.3106151,Pasto,NA,Pasto,Narino,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.042754,-12.0463731,colloquial_area,approximate,"lima, peru",-11.7999875,-12.2532891,-76.78833970000001,-77.1872186,NA,NA,NA,Callao Region,Peru,NA,NA,NA,NA,NA,NA,Lima,NA,NA,NA
+-66.58973,6.42375,country,approximate,venezuela,12.770409,0.5438179,-59.80378,-73.4255611,NA,NA,NA,NA,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-75.5812119,6.244203,administrative_area_level_2,approximate,"medellin, antioquia, colombia",6.373637,6.163719,-75.4734099,-75.7193741,NA,NA,Medellin,Antioquia,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.25163260000001,-3.7436735,locality,approximate,"iquitos, peru",-3.7005039,-3.8053353,-73.2362366,-73.3303928,Iquitos,NA,Maynas Province,Loreto,Peru,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-119.4179324,36.778261,administrative_area_level_1,approximate,"california, usa",42.0095169,32.528832,-114.131211,-124.482003,NA,NA,NA,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.0368707,38.9071923,locality,approximate,"washington, dc, usa",38.995548,38.7916449,-76.909393,-77.119759,Washington,NA,District of Columbia,District of Columbia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-89.5925857,20.9673702,locality,approximate,"mérida, yucatan, mexico",21.0872143,20.8729168,-89.5430336,-89.72280300000001,Mérida,NA,NA,Yucatan,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-83.05761559999999,42.7509332,administrative_area_level_3,approximate,"washington township, mi, usa",42.8033329,42.7123739,-82.9769081,-83.099432,NA,Washington Township,Macomb County,Michigan,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7.487306900000001,46.9577083,locality,approximate,"ostermundigen, switzerland",46.97145,46.94011,7.513030099999999,7.4770399,Ostermundigen,NA,Bern,Canton of Bern,Switzerland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151.2092955,-33.8688197,colloquial_area,approximate,"sydney nsw, australia",-33.5781409,-34.118347,151.3430209,150.5209286,NA,NA,NA,New South Wales,Australia,NA,NA,NA,NA,NA,NA,Sydney,NA,NA,NA
+-104.6188943,50.4452112,locality,approximate,"regina, sk, canada",50.5207396,50.3964489,-104.4924259,-104.7783923,Regina,Sherwood No. 159,Division No. 6,Saskatchewan,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9.1829321,48.7758459,locality,approximate,"stuttgart, germany",48.86639940000001,48.6920187,9.3158251,9.0386053,Stuttgart,NA,Stuttgart,Baden-Württemberg,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.297333,4.570868,country,approximate,colombia,13.5177999,-4.22711,-66.851923,-81.8317,NA,NA,NA,NA,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-70.6504896,-33.4375545,administrative_area_level_1,approximate,"santiago metropolitan region, chile",-32.919451,-34.2878148,-69.7689943,-71.7088102,NA,NA,NA,Santiago Metropolitan Region,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-64.3682804,45.897903,locality,approximate,"sackville, nb, canada",45.96934,45.86707,-64.31345000000002,-64.4562439,Sackville,Sackville,Westmorland County,New Brunswick,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.0907246,9.9280694,locality,approximate,"san josé province, san josé, costa rica",9.9712598,9.899968699999999,-84.047191,-84.1794991,San José,NA,NA,San José Province,Costa Rica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.542969,-35.675147,country,approximate,chile,-17.4983293,-56.1455,-66.3327,-110.0281,NA,NA,NA,NA,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.4678382,-0.1806532,locality,approximate,"quito, ecuador",0.0219727,-0.3951614,-78.2741547,-78.58692169999999,Quito,NA,Metropolitan District of Quito,Pichincha,Ecuador,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-66.58973,6.42375,country,approximate,venezuela,12.770409,0.5438179,-59.80378,-73.4255611,NA,NA,NA,NA,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-102.552784,23.634501,country,approximate,mexico,32.7186534,14.3895,-86.5887,-118.6523001,NA,NA,NA,NA,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-66.90360629999999,10.4805937,locality,approximate,"caracas, capital district, venezuela",10.5401335,10.39665,-66.71795329999999,-67.0627784,Caracas,NA,Libertador,Capital District,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18.4240553,-33.9248685,locality,approximate,"cape town, south africa",-33.47127,-34.3598061,19.00467,18.3074488,Cape Town,NA,Cape Town,Western Cape,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-75.5812119,6.244203,administrative_area_level_2,approximate,"medellin, antioquia, colombia",6.373637,6.163719,-75.4734099,-75.7193741,NA,NA,Medellin,Antioquia,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18.4240553,-33.9248685,locality,approximate,"cape town, south africa",-33.47127,-34.3598061,19.00467,18.3074488,Cape Town,NA,Cape Town,Western Cape,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-89.3985283,40.6331249,administrative_area_level_1,approximate,"illinois, usa",42.5083379,36.970298,-87.01993499999999,-91.5130789,NA,NA,NA,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.62738569999999,43.1696275,establishment,rooftop,"275 lake ave, rochester, ny 14608, usa",43.17097648029149,43.16827851970849,-77.6260367197085,-77.6287346802915,Rochester,NA,Monroe County,New York,United States,14608,NA,275,Lake Avenue,Edgerton,1042,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85.3239605,27.7172453,locality,approximate,"kathmandu 44600, nepal",27.7499367,27.667984,85.37316799999999,85.2790976,Kathmandu,NA,Bagmati,Central Development Region,Nepal,44600,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.3961564,33.9533487,locality,approximate,"riverside, ca, usa",34.01951409999999,33.872517,-117.275174,-117.523882,Riverside,NA,Riverside County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.57918,44.837789,locality,approximate,"bordeaux, france",44.91670389999999,44.810752,-0.5333089999999999,-0.638973,Bordeaux,NA,Gironde,Nouvelle-Aquitaine,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-72.9833,-41.3167,locality,approximate,"puerto varas, los lagos region, chile",-41.2964215,-41.3465301,-72.94332829999999,-73.01441249999999,Puerto Varas,Puerto Varas,Llanquihue Province,Los Lagos Region,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-56.16453139999999,-34.9011127,locality,approximate,"montevideo, montevideo department, uruguay",-34.70193,-34.9402666,-56.023407,-56.4494704,Montevideo,NA,NA,Montevideo Department,Uruguay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-104.990251,39.7392358,locality,approximate,"denver, co, usa",39.91424689999999,39.614431,-104.6002959,-105.109927,Denver,NA,Denver County,Colorado,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-149.9002778,61.2180556,locality,approximate,"anchorage, ak, usa",61.48393789999999,60.733791,-148.4600069,-150.4206149,Anchorage,NA,Anchorage,Alaska,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.042754,-12.0463731,colloquial_area,approximate,"lima, peru",-11.7999875,-12.2532891,-76.78833970000001,-77.1872186,NA,NA,NA,Callao Region,Peru,NA,NA,NA,NA,NA,NA,Lima,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+-77.0368707,38.9071923,locality,approximate,"washington, dc, usa",38.995548,38.7916449,-76.909393,-77.119759,Washington,NA,District of Columbia,District of Columbia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.1610838,32.715738,locality,approximate,"san diego, ca, usa",33.114249,32.534856,-116.90816,-117.3097969,San Diego,NA,San Diego County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+-123.1207375,49.2827291,locality,approximate,"vancouver, bc, canada",49.3172939,49.19817700000001,-123.023068,-123.22474,Vancouver,NA,Greater Vancouver,British Columbia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.272747,37.8715926,locality,approximate,"berkeley, ca, usa",37.9058239,37.835727,-122.234179,-122.367781,Berkeley,NA,Alameda County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4.805528,43.94931700000001,locality,approximate,"avignon, france",43.9966409,43.8864731,4.927226,4.739279,Avignon,NA,Vaucluse,Provence-Alpes-Côte d'Azur,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-2.2426305,53.4807593,locality,approximate,"manchester, uk",53.5445879,53.39990299999999,-2.1468288,-2.3000969000000002,Manchester,NA,Greater Manchester,England,United Kingdom,NA,Manchester,NA,NA,NA,NA,NA,NA,NA,NA
+6.6322734,46.5196535,locality,approximate,"lausanne, switzerland",46.60232999999999,46.45463,6.72084,6.5841499,Lausanne,NA,Lausanne District,Vaud,Switzerland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-85.7584557,38.2526647,locality,approximate,"louisville, ky, usa",38.38051,37.9971,-85.40509999999999,-85.948441,Louisville,NA,Jefferson County,Kentucky,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-70.6692655,-33.4488897,colloquial_area,approximate,"santiago, santiago metropolitan region, chile",-33.2713874,-33.6741885,-70.4267807,-70.8328819,NA,NA,Santiago Province,Santiago Metropolitan Region,Chile,NA,NA,NA,NA,NA,NA,Santiago,NA,NA,NA
+-91.5301683,41.6611277,locality,approximate,"iowa city, ia, usa",41.695543,41.5985629,-91.4630469,-91.61567989999999,Iowa City,NA,Johnson County,Iowa,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133.775136,-25.274398,country,approximate,australia,-0.6911343999999999,-51.66332320000001,166.7429167,100.0911072,NA,NA,NA,NA,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.2913078,37.8271784,colloquial_area,approximate,"san francisco bay area, ca, usa",38.8642448,36.8941549,-121.208178,-123.632497,NA,NA,NA,California,United States,NA,NA,NA,NA,NA,NA,San Francisco Bay Area,NA,NA,NA
+-78.4678382,-0.1806532,locality,approximate,"quito, ecuador",0.0219727,-0.3951614,-78.2741547,-78.58692169999999,Quito,NA,Metropolitan District of Quito,Pichincha,Ecuador,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-66.90360629999999,10.4805937,locality,approximate,"caracas, capital district, venezuela",10.5401335,10.39665,-66.71795329999999,-67.0627784,Caracas,NA,Libertador,Capital District,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.042754,-12.0463731,colloquial_area,approximate,"lima, peru",-11.7999875,-12.2532891,-76.78833970000001,-77.1872186,NA,NA,NA,Callao Region,Peru,NA,NA,NA,NA,NA,NA,Lima,NA,NA,NA
+-117.8531007,33.7879139,locality,approximate,"orange, ca, usa",33.8471814,33.7680868,-117.7297706,-117.9047361,Orange,NA,Orange County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.1061639,42.4184296,locality,approximate,"medford, ma, usa",42.453395,42.3961028,-71.0718321,-71.1497979,Medford,NA,Middlesex County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.567256,45.5016889,locality,approximate,"montreal, qc, canada",45.7058381,45.410246,-73.47426,-73.986345,Montreal,NA,Montreal,Quebec,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121.0437003,14.6760413,locality,approximate,"quezon city, metro manila, philippines",14.7780362,14.5898851,121.1346208,120.989787,Quezon City,NA,NA,Metro Manila,Philippines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-88.2314813,43.0116784,locality,approximate,"waukesha, wi, usa",43.059607,42.9509759,-88.17385,-88.30481379999999,Waukesha,Waukesha,Waukesha County,Wisconsin,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.6764815,45.5230622,locality,approximate,"portland, or, usa",45.654424,45.432393,-122.4718489,-122.8369952,Portland,NA,Multnomah County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76.9558321,11.0168445,locality,approximate,"coimbatore, tamil nadu, india",11.1166118,10.9068074,77.07481589999999,76.8596541,Coimbatore,NA,Coimbatore,Tamil Nadu,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32.8597419,39.9333635,locality,approximate,"ankara, turkey",40.076332,39.7304211,33.007056,32.5184735,Ankara,NA,NA,Ankara,Turkey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113.921327,-0.789275,country,approximate,indonesia,6.216999899999999,-11.1082999,141.0425,94.7351,NA,NA,NA,NA,Indonesia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.9748103,32.8546197,locality,approximate,"north charleston, sc, usa",32.999724,32.826744,-79.92979179999999,-80.24975789999999,North Charleston,NA,Charleston County,South Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-99.28805969999999,19.3631419,administrative_area_level_3,approximate,"cuajimalpa, cdmx, mexico",19.404848,19.2325656,-99.2467362,-99.36492419999999,NA,Cuajimalpa,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.74922,40.46366700000001,country,approximate,spain,45.244,35.17300000000001,5.098,-12.524,NA,NA,NA,NA,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.188267,55.953252,locality,approximate,"edinburgh, uk",55.9919939,55.8904228,-3.0776588,-3.3330187,Edinburgh,NA,Edinburgh,Scotland,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.042754,-12.0463731,colloquial_area,approximate,"lima, peru",-11.7999875,-12.2532891,-76.78833970000001,-77.1872186,NA,NA,NA,Callao Region,Peru,NA,NA,NA,NA,NA,NA,Lima,NA,NA,NA
+9.501785,56.26392,country,approximate,denmark,58.02846,54.4317001,15.2298,7.855200099999999,NA,NA,NA,NA,Denmark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153.0251235,-27.4697707,colloquial_area,approximate,"brisbane qld, australia",-26.9968449,-27.7674409,153.3178702,152.6685227,NA,NA,NA,Queensland,Australia,NA,NA,NA,NA,NA,NA,Brisbane,NA,NA,NA
+-93.3702186,44.9597376,locality,approximate,"st louis park, mn, usa",44.97870200000001,44.91956589999999,-93.32852609999999,-93.410629,Saint Louis Park,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5.447426999999999,43.529742,locality,approximate,"aix-en-provence, france",43.62598,43.445968,5.506365,5.269528999999999,Aix-en-Provence,NA,Bouches-du-Rhone,Provence-Alpes-Côte d'Azur,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-90.0489801,35.1495343,locality,approximate,"memphis, tn, usa",35.264187,34.994185,-89.637081,-90.3044929,Memphis,NA,Shelby County,Tennessee,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.3324425,37.5059332,administrative_area_level_2,approximate,"henrico county, va, usa",37.7104111,37.3519541,-77.1771049,-77.6549109,NA,NA,Henrico County,Virginia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.2090212,28.6139391,locality,approximate,"new delhi, delhi, india",28.65048,28.4041,77.3449601,77.07301009999999,New Delhi,NA,NA,Delhi,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.819836,1.352083,country,approximate,singapore,1.4784001,1.1496,104.0945001,103.594,NA,NA,NA,NA,Singapore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-121.8374777,39.7284944,locality,approximate,"chico, ca, usa",39.816935,39.6987579,-121.7132931,-121.898508,Chico,NA,Butte County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151.2092955,-33.8688197,colloquial_area,approximate,"sydney nsw, australia",-33.5781409,-34.118347,151.3430209,150.5209286,NA,NA,NA,New South Wales,Australia,NA,NA,NA,NA,NA,NA,Sydney,NA,NA,NA
+-78.8783689,42.88644679999999,locality,approximate,"buffalo, ny, usa",42.9664549,42.826023,-78.795157,-78.9337276,Buffalo,NA,Erie County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.8783689,42.88644679999999,locality,approximate,"buffalo, ny, usa",42.9664549,42.826023,-78.795157,-78.9337276,Buffalo,NA,Erie County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.1430195,37.4418834,locality,approximate,"palo alto, ca, usa",37.4712,37.3801,-122.0765,-122.1942,Palo Alto,NA,Santa Clara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-115.1398296,36.1699412,locality,approximate,"las vegas, nv, usa",36.3,35.95,-114.95,-115.4,Las Vegas,NA,Clark County,Nevada,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72.8776559,19.0759837,locality,approximate,"mumbai, maharashtra, india",19.2716339,18.8928676,72.9864994,72.7758729,Mumbai,NA,Mumbai,Maharashtra,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.3794834,33.1958696,locality,approximate,"oceanside, ca, usa",33.299233,33.1527181,-117.2365761,-117.3985069,Oceanside,NA,San Diego County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-121.8863286,37.3382082,locality,approximate,"san jose, ca, usa",37.4695381,37.124493,-121.589154,-122.0456719,San Jose,NA,Santa Clara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-58.3815591,-34.6036844,locality,approximate,"buenos aires, argentina",-34.5265464,-34.7051011,-58.33514470000001,-58.5314522,Buenos Aires,NA,NA,Buenos Aires,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-80.0117254,40.6958996,locality,approximate,"mars, pa 16046, usa",40.702338,40.6913781,-80.00406799999999,-80.0243249,Mars,Adams Township,Butler County,Pennsylvania,United States,16046,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.6764815,45.5230622,locality,approximate,"portland, or, usa",45.654424,45.432393,-122.4718489,-122.8369952,Portland,NA,Multnomah County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-89.51814759999999,37.3058839,locality,approximate,"cape girardeau, mo, usa",37.389916,37.21824489999999,-89.4908651,-89.620707,Cape Girardeau,Cape Girardeau Township,Cape Girardeau County,Missouri,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75.8577258,22.7195687,locality,approximate,"indore, madhya pradesh, india",22.8348736,22.6130719,75.9619939,75.7657059,Indore,NA,Indore,Madhya Pradesh,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.6764815,45.5230622,locality,approximate,"portland, or, usa",45.654424,45.432393,-122.4718489,-122.8369952,Portland,NA,Multnomah County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.2090212,28.6139391,locality,approximate,"new delhi, delhi, india",28.65048,28.4041,77.3449601,77.07301009999999,New Delhi,NA,NA,Delhi,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72.8776559,19.0759837,locality,approximate,"mumbai, maharashtra, india",19.2716339,18.8928676,72.9864994,72.7758729,Mumbai,NA,Mumbai,Maharashtra,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-76.64127119999999,39.0457549,administrative_area_level_1,approximate,"maryland, usa",39.723037,37.8866049,-74.9862819,-79.4876511,NA,NA,NA,Maryland,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104.195397,35.86166,country,approximate,china,53.56097399999999,17.9996,134.7728099,73.4994136,NA,NA,NA,NA,China,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.234956,54.574227,locality,approximate,"middlesbrough, uk",54.5915173,54.51755199999999,-1.1666256,-1.2794683,Middlesbrough,NA,Middlesbrough,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.63191309999999,42.0307812,locality,approximate,"ames, ia, usa",42.076253,41.975428,-93.5542299,-93.698523,Ames,NA,Story County,Iowa,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-82.3940104,34.85261759999999,locality,approximate,"greenville, sc, usa",34.8908379,34.7754991,-82.29098189999999,-82.434679,Greenville,NA,Greenville County,South Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.63191309999999,42.0307812,locality,approximate,"ames, ia, usa",42.076253,41.975428,-93.5542299,-93.698523,Ames,NA,Story County,Iowa,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.3879824,33.7489954,locality,approximate,"atlanta, ga, usa",33.8876179,33.6478079,-84.289389,-84.5518189,Atlanta,NA,Fulton County,Georgia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.63191309999999,42.0307812,locality,approximate,"ames, ia, usa",42.076253,41.975428,-93.5542299,-93.698523,Ames,NA,Story County,Iowa,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-63.5677427,44.6652059,locality,approximate,"dartmouth, ns, canada",44.73124749999999,44.6300619,-63.4893894,-63.6189509,Dartmouth,Halifax,Halifax Regional Municipality,Nova Scotia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.62738569999999,43.1696275,establishment,rooftop,"275 lake ave, rochester, ny 14608, usa",43.17097648029149,43.16827851970849,-77.6260367197085,-77.6287346802915,Rochester,NA,Monroe County,New York,United States,14608,NA,275,Lake Avenue,Edgerton,1042,NA,NA,NA,NA
+-79.9958864,40.44062479999999,locality,approximate,"pittsburgh, pa, usa",40.501368,40.3613689,-79.8657231,-80.0952779,Pittsburgh,NA,Allegheny County,Pennsylvania,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-85.7584557,38.2526647,locality,approximate,"louisville, ky, usa",38.38051,37.9971,-85.40509999999999,-85.948441,Louisville,NA,Jefferson County,Kentucky,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101.5944885,3.1278871,locality,approximate,"petaling jaya, selangor, malaysia",3.204971,3.070996,101.6637271,101.5526301,Petaling Jaya,NA,NA,Selangor,Malaysia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106.8650395,-6.17511,administrative_area_level_1,approximate,"jakarta, indonesia",-5.1843219,-6.3708331,106.972825,106.3831259,NA,NA,NA,Jakarta,Indonesia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.2405299,52.56949849999999,locality,approximate,"peterborough, uk",52.6637708,52.5060949,-0.1032429,-0.4976634,Peterborough,NA,Peterborough,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30.5234,50.4501,locality,approximate,"kiev, ukraine, 02000",50.590798,50.213273,30.825941,30.2394401,Kiev,NA,Kyiv City,NA,Ukraine,02000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.819836,1.352083,country,approximate,singapore,1.4784001,1.1496,104.0945001,103.594,NA,NA,NA,NA,Singapore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-56.0978917,-15.6014109,locality,approximate,"cuiabá - coxipó da ponte, cuiabá - state of mato grosso, brazil",-15.5187559,-15.7100588,-55.9351302,-56.14848379999999,Cuiabá,NA,Cuiabá,State of Mato Grosso,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,Coxipó da Ponte
+-79.0558445,35.9131996,locality,approximate,"chapel hill, nc, usa",35.972366,35.869552,-78.9954109,-79.083171,Chapel Hill,Chapel Hill,Orange County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-73.0724037,41.6743343,locality,approximate,"thomaston, ct, usa",41.708298,41.6068969,-73.050752,-73.141555,Thomaston,Litchfield,Litchfield County,Connecticut,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-85.7584557,38.2526647,locality,approximate,"louisville, ky, usa",38.38051,37.9971,-85.40509999999999,-85.948441,Louisville,NA,Jefferson County,Kentucky,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-46.63330939999999,-23.5505199,locality,approximate,"são paulo, state of são paulo, brazil",-23.3566039,-24.0082209,-46.3650844,-46.825514,São Paulo,NA,São Paulo,State of São Paulo,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-90.5068824,14.6349149,locality,approximate,"guatemala city, guatemala",14.7012545,14.5511856,-90.39645209999999,-90.5886688,Guatemala City,NA,NA,Guatemala Department,Guatemala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.2090053,40.8259007,locality,approximate,"montclair, nj, usa",40.861847,40.788323,-74.18268909999999,-74.23763989999999,Montclair,NA,Essex County,New Jersey,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-6.236580399999999,53.3333993,embassy,rooftop,"63-65, northumberland rd, dublin 4, ireland",53.33474828029149,53.33205031970849,-6.235231419708497,-6.237929380291502,NA,NA,NA,County Dublin,Ireland,NA,Dublin 4,"63-65,",Northumberland Road,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-1.5412015,53.9915028,administrative_area_level_2,approximate,"north yorkshire, uk",54.56214379999999,53.6210943,-0.2123533,-2.5647389,NA,NA,North Yorkshire,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.133208,19.4326077,locality,approximate,"mexico city, cdmx, mexico",19.5927571,19.1887101,-98.9604482,-99.3267771,Mexico City,NA,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-85.7584557,38.2526647,locality,approximate,"louisville, ky, usa",38.38051,37.9971,-85.40509999999999,-85.948441,Louisville,NA,Jefferson County,Kentucky,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-96.6851982,40.8257625,locality,approximate,"lincoln, ne, usa",40.8899361,40.7112819,-96.5773068,-96.8041498,Lincoln,NA,Lancaster County,Nebraska,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+13.404954,52.52000659999999,locality,approximate,"berlin, germany",52.6754542,52.338234,13.7611175,13.088346,Berlin,NA,NA,Berlin,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-99.15914459999999,19.3794059,administrative_area_level_3,approximate,"benito juarez, mexico city, cdmx, mexico",19.4040632,19.3569176,-99.13094249999999,-99.1921407,Mexico City,Benito Juarez,NA,Mexico City,Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.819836,1.352083,country,approximate,singapore,1.4784001,1.1496,104.0945001,103.594,NA,NA,NA,NA,Singapore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-75.0246312,39.926813,locality,approximate,"cherry hill, nj, usa",39.9541879,39.8593501,-74.926935,-75.06617109999999,Cherry Hill,NA,Camden County,New Jersey,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.0899578,44.9537029,locality,approximate,"st paul, mn, usa",44.992016,44.88739899999999,-93.00431979999999,-93.207787,Saint Paul,NA,Ramsey County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-81.2133262,41.5786639,locality,approximate,"chardon, oh 44024, usa",41.5996511,41.554648,-81.18765599999999,-81.242657,Chardon,Hambden Township,Geauga County,Ohio,United States,44024,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.5120196,39.1031182,locality,approximate,"cincinnati, oh, usa",39.2207591,39.051921,-84.36875479999999,-84.71204809999999,Cincinnati,NA,Hamilton County,Ohio,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.5449763,37.9060368,locality,approximate,"mill valley, ca 94941, usa",37.929124,37.884272,-122.514257,-122.577089,Mill Valley,NA,Marin County,California,United States,94941,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79.861243,6.9270786,locality,approximate,"colombo, sri lanka",6.9812866,6.862390700000001,79.8900852,79.8223258,Colombo,NA,Colombo,Western Province,Sri Lanka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6.9602786,50.937531,locality,approximate,"cologne, germany",51.08496299999999,50.8304427,7.1620628,6.7725819,Cologne,NA,Cologne,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-11.779889,8.460555,country,approximate,sierra leone,9.9999737,6.8446,-10.271683,-13.4032999,NA,NA,NA,NA,Sierra Leone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-64.67768,10.1445691,locality,approximate,"barcelona, anzoategui, venezuela",10.182111,10.0406982,-64.6104653,-64.71680359999999,Barcelona,NA,Simon Bolivar,Anzoategui,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.3522219,48.856614,locality,approximate,"paris, france",48.9021449,48.815573,2.4699208,2.224199,Paris,NA,Paris,Île-de-France,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.50155459999999,41.4381721,neighborhood,approximate,"wakefield, south kingstown, ri 02879, usa",41.4474726,41.4332764,-71.4848785,-71.51190629999999,South Kingstown,NA,Washington County,Rhode Island,United States,02879,NA,NA,NA,Wakefield,NA,NA,NA,Town of South Kingstown,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.10249019999999,28.7040592,administrative_area_level_1,approximate,"delhi, india",28.881338,28.412593,77.3484578,76.83806899999999,NA,NA,NA,Delhi,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-104.990251,39.7392358,locality,approximate,"denver, co, usa",39.91424689999999,39.614431,-104.6002959,-105.109927,Denver,NA,Denver County,Colorado,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-106.9561791,44.7971939,locality,approximate,"sheridan, wy 82801, usa",44.831207,44.74783,-106.913123,-107.0232359,Sheridan,NA,Sheridan County,Wyoming,United States,82801,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-83.7430378,42.2808256,locality,approximate,"ann arbor, mi, usa",42.3239728,42.222668,-83.6758069,-83.799572,Ann Arbor,NA,Washtenaw County,Michigan,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-82.99879419999999,39.9611755,locality,approximate,"columbus, oh, usa",40.1572719,39.808631,-82.77137809999999,-83.2102799,Columbus,NA,Franklin County,Ohio,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-51.92528,-14.235004,country,approximate,brazil,5.2717863,-34.0891,-28.650543,-73.982817,NA,NA,NA,NA,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.30637329999999,38.84622359999999,locality,approximate,"fairfax, va, usa",38.8716918,38.832797,-77.268624,-77.3350519,Fairfax,NA,NA,Virginia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-66.11106819999999,18.3615548,administrative_area_level_1,approximate,"guaynabo, puerto rico",18.4405421,18.277699900000002,-66.08047479999999,-66.1441191,NA,NA,NA,Guaynabo,Puerto Rico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-81.44122589999999,41.3897764,locality,approximate,"solon, oh 44139, usa",41.4247528,41.348272,-81.391393,-81.488922,Solon,NA,Cuyahoga County,Ohio,United States,44139,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-84.5120196,39.1031182,locality,approximate,"cincinnati, oh, usa",39.2207591,39.051921,-84.36875479999999,-84.71204809999999,Cincinnati,NA,Hamilton County,Ohio,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.9130826,38.288462,locality,approximate,"weyers cave, va, usa",38.3095658,38.250966,-78.8826859,-78.943099899999993,Weyers Cave,Middle River,Augusta County,Virginia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-76.6121893,39.2903848,locality,approximate,"baltimore, md, usa",39.3722059,39.1972069,-76.5294528,-76.71151909999999,Baltimore,NA,NA,Maryland,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121.5654177,25.0329694,colloquial_area,approximate,"taipei, taiwan",25.2443731,24.7900797,121.7300824,121.2826735,NA,NA,NA,NA,Taiwan,NA,NA,NA,NA,NA,NA,Taipei,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16.5448092,59.60990049999999,locality,approximate,"västerås, sweden",59.676659,59.57252499999999,16.6539362,16.4362451,Västerås,NA,NA,Västmanland County,Sweden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.8022934,42.2625932,locality,approximate,"worcester, ma, usa",42.3411789,42.209691,-71.7315589,-71.88391709999999,Worcester,NA,Worcester County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.9006951,47.0378741,locality,approximate,"olympia, wa, usa",47.078086,47.0005809,-122.8231391,-122.9645981,Olympia,NA,Thurston County,Washington,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.1734035,41.3850639,locality,approximate,"barcelona, spain",41.4695761,41.320004,2.2280099,2.0695258,Barcelona,NA,Barcelona,Catalonia,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-88.41538469999999,44.2619309,locality,approximate,"appleton, wi, usa",44.3536019,44.2216491,-88.34298,-88.4511578,Appleton,NA,Outagamie County,Wisconsin,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.9064736,43.0389025,locality,approximate,"milwaukee, wi, usa",43.1949671,42.9208158,-87.8639841,-88.070876,Milwaukee,NA,Milwaukee County,Wisconsin,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.898619,35.9940329,locality,approximate,"durham, nc, usa",36.1369289,35.8667249,-78.762172,-79.00765,Durham,NA,Durham County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.1207375,49.2827291,locality,approximate,"vancouver, bc, canada",49.3172939,49.19817700000001,-123.023068,-123.22474,Vancouver,NA,Greater Vancouver,British Columbia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28.9783589,41.0082376,locality,approximate,"istanbul, turkey",41.199239,40.811404,29.4288049,28.595554,Istanbul,NA,NA,Istanbul,Turkey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28.9783589,41.0082376,locality,approximate,"istanbul, turkey",41.199239,40.811404,29.4288049,28.595554,Istanbul,NA,NA,Istanbul,Turkey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-83.7430378,42.2808256,locality,approximate,"ann arbor, mi, usa",42.3239728,42.222668,-83.6758069,-83.799572,Ann Arbor,NA,Washtenaw County,Michigan,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.7430608,30.267153,locality,approximate,"austin, tx, usa",30.5168629,30.0986589,-97.5684199,-97.9383829,Austin,NA,Travis County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.6581562,33.5968913,locality,approximate,"mission viejo, ca, usa",33.6702047,33.5338344,-117.6249168,-117.6958789,Mission Viejo,NA,Orange County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80.2707184,13.0826802,locality,approximate,"chennai, tamil nadu, india",13.2611661,12.8338848,80.33632279999999,80.0817007,Chennai,NA,Chennai,Tamil Nadu,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.0899578,44.9537029,locality,approximate,"st paul, mn, usa",44.992016,44.88739899999999,-93.00431979999999,-93.207787,Saint Paul,NA,Ramsey County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.0363496,37.36883,locality,approximate,"sunnyvale, ca, usa",37.4640869,37.330236,-121.98267,-122.0655719,Sunnyvale,NA,Santa Clara County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.6764815,45.5230622,locality,approximate,"portland, or, usa",45.654424,45.432393,-122.4718489,-122.8369952,Portland,NA,Multnomah County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-96.6851982,40.8257625,locality,approximate,"lincoln, ne, usa",40.8899361,40.7112819,-96.5773068,-96.8041498,Lincoln,NA,Lancaster County,Nebraska,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24.7452904,42.1354079,locality,approximate,"plovdiv, bulgaria",42.1982332,42.0900086,24.8240283,24.6577202,Plovdiv,NA,NA,Plovdiv Province,Bulgaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.819836,1.352083,country,approximate,singapore,1.4784001,1.1496,104.0945001,103.594,NA,NA,NA,NA,Singapore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-149.9002778,61.2180556,locality,approximate,"anchorage, ak, usa",61.48393789999999,60.733791,-148.4600069,-150.4206149,Anchorage,NA,Anchorage,Alaska,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.188267,55.953252,locality,approximate,"edinburgh, uk",55.9919939,55.8904228,-3.0776588,-3.3330187,Edinburgh,NA,Edinburgh,Scotland,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.6109219,43.16103,locality,approximate,"rochester, ny, usa",43.269045,43.103318,-77.531166,-77.701632,Rochester,NA,Monroe County,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-86.7816016,36.1626638,locality,approximate,"nashville, tn, usa",36.4054959,35.9677851,-86.5155879,-87.054903,Nashville,NA,Davidson County,Tennessee,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-86.1089301,42.7875235,locality,approximate,"holland, mi 49423, usa",42.80256680000001,42.7293419,-86.0470248,-86.16698690000001,Holland,NA,Ottawa County,Michigan,United States,49423,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.3320708,47.6062095,locality,approximate,"seattle, wa, usa",47.734145,47.4919119,-122.2244331,-122.4596959,Seattle,NA,King County,Washington,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.1207375,49.2827291,locality,approximate,"vancouver, bc, canada",49.3172939,49.19817700000001,-123.023068,-123.22474,Vancouver,NA,Greater Vancouver,British Columbia,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21.0122287,52.2296756,locality,approximate,"warsaw, poland",52.3679992,52.0978767,21.2710984,20.8512898,Warsaw,NA,Warszawa,Masovian Voivodeship,Poland,05,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7.5885761,47.5595986,locality,approximate,"basel, switzerland",47.5898833,47.51931,7.634099999999999,7.554819900000001,Basel,NA,Basel-Stadt,Basel City,Switzerland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.09098089999999,38.8816208,administrative_area_level_2,approximate,"arlington county, arlington, va, usa",38.934343,38.82729,-77.03214299999999,-77.17216909999999,Arlington,NA,Arlington County,Virginia,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151.2092955,-33.8688197,colloquial_area,approximate,"sydney nsw, australia",-33.5781409,-34.118347,151.3430209,150.5209286,NA,NA,NA,New South Wales,Australia,NA,NA,NA,NA,NA,NA,Sydney,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.3698028,29.7604267,locality,approximate,"houston, tx, usa",30.1107319,29.523624,-95.014496,-95.78808690000001,Houston,NA,Harris County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+3.9470396,7.3775355,locality,approximate,"ibadan, nigeria",7.557695799999999,7.2839339,4.0328407,3.7755203,Ibadan,NA,NA,Oyo,Nigeria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.486671,17.385044,locality,approximate,"hyderabad, telangana, india",17.6078088,17.2168886,78.6561694,78.1599217,Hyderabad,NA,NA,Telangana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-96.3344068,30.627977,locality,approximate,"college station, tx, usa",30.658246,30.5234559,-96.19660309999999,-96.386719,College Station,NA,Brazos County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-82.32648089999999,27.8661364,locality,approximate,"riverview, fl, usa",27.8950889,27.82148,-82.244339,-82.3490499,Riverview,NA,Hillsborough County,Florida,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-83.627157,41.556996,locality,approximate,"perrysburg, oh 43551, usa",41.57151200000001,41.499635,-83.591397,-83.695948,Perrysburg,Perrysburg Township,Wood County,Ohio,United States,43551,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.2405299,52.56949849999999,locality,approximate,"peterborough, uk",52.6637708,52.5060949,-0.1032429,-0.4976634,Peterborough,NA,Peterborough,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.5164276,35.4675602,locality,approximate,"oklahoma city, ok, usa",35.674752,35.2905439,-97.12472,-97.83367489999999,Oklahoma City,NA,Oklahoma County,Oklahoma,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.1086131,41.5462745,locality,approximate,"sabadell, barcelona, spain",41.5769855,41.5223582,2.1278043,2.0773878,Sabadell,NA,Barcelona,Catalonia,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.3762881,39.4699075,locality,approximate,"valencia, spain",39.5073225,39.308248,-0.2914778,-0.4315448,Valencia,NA,Valencia,Valencian Community,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-43.1728965,-22.9068467,locality,approximate,"rio de janeiro, state of rio de janeiro, brazil",-22.7460327,-23.0822288,-43.0969042,-43.7950599,Rio de Janeiro,NA,Rio de Janeiro,State of Rio de Janeiro,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.7845025,41.8850317,locality,approximate,"oak park, il, usa",41.90933090000001,41.864931,-87.774057,-87.805859,Oak Park,Oak Park Township,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-119.8138027,39.5296329,locality,approximate,"reno, nv, usa",39.723436,39.3924261,-119.6993449,-120.0023379,Reno,NA,Washoe County,Nevada,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5.291265999999999,52.132633,country,approximate,netherlands,53.6756,50.7503837,7.227140500000001,3.3316,NA,NA,NA,NA,Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-117.9686755,33.9930677,locality,approximate,"hacienda heights, ca, usa",34.0316429,33.9728069,-117.92713,-118.0086991,Hacienda Heights,NA,Los Angeles County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-114.0708459,51.0486151,locality,approximate,"calgary, ab, canada",51.18383,50.84240399999999,-113.8769511,-114.2713599,Calgary,NA,Division No. 6,Alberta,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-66.58973,6.42375,country,approximate,venezuela,12.770409,0.5438179,-59.80378,-73.4255611,NA,NA,NA,NA,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80.2707184,13.0826802,locality,approximate,"chennai, tamil nadu, india",13.2611661,12.8338848,80.33632279999999,80.0817007,Chennai,NA,Chennai,Tamil Nadu,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-86.80248999999999,33.5206608,locality,approximate,"birmingham, al, usa",33.6787149,33.3837599,-86.57814979999999,-87.1221241,Birmingham,NA,Jefferson County,Alabama,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.9958864,40.44062479999999,locality,approximate,"pittsburgh, pa, usa",40.501368,40.3613689,-79.8657231,-80.0952779,Pittsburgh,NA,Allegheny County,Pennsylvania,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.0266383,28.4594965,locality,approximate,"gurugram, haryana, india",28.5458783,28.303795,77.1226452,76.85691829999999,Gurugram,NA,Gurgaon,Haryana,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-94.5785667,39.0997265,locality,approximate,"kansas city, mo, usa",39.356662,38.827176,-94.385522,-94.765917,Kansas City,NA,Jackson County,Missouri,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.712891,37.09024,country,approximate,united states,49.38,25.82,-66.94,-124.39,NA,NA,NA,NA,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.62738569999999,43.1696275,establishment,rooftop,"275 lake ave, rochester, ny 14608, usa",43.17097648029149,43.16827851970849,-77.6260367197085,-77.6287346802915,Rochester,NA,Monroe County,New York,United States,14608,NA,275,Lake Avenue,Edgerton,1042,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28.0473051,-26.2041028,locality,approximate,"johannesburg, south africa",-26.1041199,-26.2389231,28.1376001,27.942449,Johannesburg,NA,City of Johannesburg Metropolitan Municipality,Gauteng,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.5490774,53.8007554,locality,approximate,"leeds, uk",53.8812021,53.7308029,-1.3973731,-1.6740915,Leeds,NA,West Yorkshire,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.188267,55.953252,locality,approximate,"edinburgh, uk",55.9919939,55.8904228,-3.0776588,-3.3330187,Edinburgh,NA,Edinburgh,Scotland,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103.819836,1.352083,country,approximate,singapore,1.4784001,1.1496,104.0945001,103.594,NA,NA,NA,NA,Singapore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.491634,53.31914099999999,locality,approximate,"rhyl, uk",53.330844,53.3039189,-3.4501193,-3.5059586,Rhyl,NA,Denbighshire,Wales,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.5490774,53.8007554,locality,approximate,"leeds, uk",53.8812021,53.7308029,-1.3973731,-1.6740915,Leeds,NA,West Yorkshire,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.17909,51.48158100000001,locality,approximate,"cardiff, uk",51.5609063,51.4435752,-3.1164374,-3.2823817,Cardiff,NA,Cardiff,Wales,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.6381787,35.7795897,locality,approximate,"raleigh, nc, usa",35.97172800000001,35.7158079,-78.471063,-78.8190489,Raleigh,NA,Wake County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.3698028,29.7604267,locality,approximate,"houston, tx, usa",30.1107319,29.523624,-95.014496,-95.78808690000001,Houston,NA,Harris County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.188267,55.953252,locality,approximate,"edinburgh, uk",55.9919939,55.8904228,-3.0776588,-3.3330187,Edinburgh,NA,Edinburgh,Scotland,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.3522219,48.856614,locality,approximate,"paris, france",48.9021449,48.815573,2.4699208,2.224199,Paris,NA,Paris,Île-de-France,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2.3522219,48.856614,locality,approximate,"paris, france",48.9021449,48.815573,2.4699208,2.224199,Paris,NA,Paris,Île-de-France,France,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16.9251681,52.406374,locality,approximate,"poznań, poland",52.509141,52.29191609999999,17.0716593,16.7316724,Poznań,NA,Poznań County,Greater Poland Voivodeship,Poland,64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.9064736,43.0389025,locality,approximate,"milwaukee, wi, usa",43.1949671,42.9208158,-87.8639841,-88.070876,Milwaukee,NA,Milwaukee County,Wisconsin,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-2.58791,51.454513,locality,approximate,"bristol, uk",51.5444326,51.39254529999999,-2.4509024,-2.7305164,Bristol,NA,City of Bristol,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-70.2553259,43.66147100000001,locality,approximate,"portland, me, usa",43.727658,43.6063629,-70.0769348,-70.3460949,Portland,NA,Cumberland County,Maine,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+6.9602786,50.937531,locality,approximate,"cologne, germany",51.08496299999999,50.8304427,7.1620628,6.7725819,Cologne,NA,Cologne,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-86.5861037,34.7303688,locality,approximate,"huntsville, al, usa",34.8652061,34.537651,-86.413795,-86.905704,Huntsville,NA,Madison County,Alabama,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.0059413,40.7127837,locality,approximate,"new york, ny, usa",40.9175771,40.4773991,-73.70027209999999,-74.25908989999999,New York,NA,NA,New York,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-43.1728965,-22.9068467,locality,approximate,"rio de janeiro, state of rio de janeiro, brazil",-22.7460327,-23.0822288,-43.0969042,-43.7950599,Rio de Janeiro,NA,Rio de Janeiro,State of Rio de Janeiro,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-121.7680088,37.6818745,locality,approximate,"livermore, ca, usa",37.7323279,37.628038,-121.6966592,-121.8483899,Livermore,NA,Alameda County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78.96288,20.593684,country,approximate,india,35.5087008,6.4626999,97.39535869999999,68.1097,NA,NA,NA,NA,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-91.0432051,41.424473,locality,approximate,"muscatine, ia 52761, usa",41.46654789999999,41.35979589999999,-91.0069171,-91.15764999999999,Muscatine,NA,Muscatine County,Iowa,United States,52761,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.01929969999999,35.7595731,administrative_area_level_1,approximate,"north carolina, usa",36.5881568,33.7528778,-75.400119,-84.32186899999999,NA,NA,NA,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.73604979999999,38.7627893,locality,approximate,"warrensburg, mo 64093, usa",38.7865191,38.7375379,-93.687456,-93.7642669,Warrensburg,Warrensburg Township,Johnson County,Missouri,United States,64093,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-76.93776,38.9896967,locality,approximate,"college park, md, usa",39.025559,38.971109,-76.9091469,-76.965351,College Park,Berwyn,Prince George's County,Maryland,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-86.7816016,36.1626638,locality,approximate,"nashville, tn, usa",36.4054959,35.9677851,-86.5155879,-87.054903,Nashville,NA,Davidson County,Tennessee,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80.3318736,26.449923,locality,approximate,"kanpur, uttar pradesh, india",26.54308,26.3512674,80.46798710000002,80.2087784,Kanpur,NA,Kanpur Nagar,Uttar Pradesh,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-149.9002778,61.2180556,locality,approximate,"anchorage, ak, usa",61.48393789999999,60.733791,-148.4600069,-150.4206149,Anchorage,NA,Anchorage,Alaska,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-0.1277583,51.5073509,locality,approximate,"london, uk",51.6723432,51.38494009999999,0.14827099999999999,-0.3514683,London,NA,Greater London,England,United Kingdom,NA,London,NA,NA,NA,NA,NA,NA,NA,NA
+-66.58973,6.42375,country,approximate,venezuela,12.770409,0.5438179,-59.80378,-73.4255611,NA,NA,NA,NA,Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-82.3940104,34.85261759999999,locality,approximate,"greenville, sc, usa",34.8908379,34.7754991,-82.29098189999999,-82.434679,Greenville,NA,Greenville County,South Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-115.1398296,36.1699412,locality,approximate,"las vegas, nv, usa",36.3,35.95,-114.95,-115.4,Las Vegas,NA,Clark County,Nevada,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-78.6381787,35.7795897,locality,approximate,"raleigh, nc, usa",35.97172800000001,35.7158079,-78.471063,-78.8190489,Raleigh,NA,Wake County,North Carolina,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-52.7125768,47.5615096,locality,approximate,"st. john's, nl, canada",47.6340069,47.329816,-52.6175349,-53.03786789999999,St. John's,"Division No. 1, Subd. D",Division No. 1,Newfoundland and Labrador,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18.643501,60.12816100000001,country,approximate,sweden,69.0599709,55.0059799,24.1773101,10.5798,NA,NA,NA,NA,Sweden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-52.7125768,47.5615096,locality,approximate,"st. john's, nl, canada",47.6340069,47.329816,-52.6175349,-53.03786789999999,St. John's,"Division No. 1, Subd. D",Division No. 1,Newfoundland and Labrador,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-112.0740373,33.4483771,locality,approximate,"phoenix, az, usa",33.92057,33.29025980000001,-111.926046,-112.324056,Phoenix,NA,Maricopa County,Arizona,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-2.208853,51.319664,locality,approximate,"trowbridge ba14, uk",51.3434555,51.2948208,-2.1734747,-2.23845,Trowbridge,NA,Wiltshire,England,United Kingdom,BA14,Trowbridge,NA,NA,NA,NA,NA,NA,NA,NA
+-2.208853,51.319664,locality,approximate,"trowbridge ba14, uk",51.3434555,51.2948208,-2.1734747,-2.23845,Trowbridge,NA,Wiltshire,England,United Kingdom,BA14,Trowbridge,NA,NA,NA,NA,NA,NA,NA,NA
+9.9533548,49.79130439999999,locality,approximate,"würzburg, germany",49.8454619,49.7106843,10.0144287,9.8716285,Würzburg,Würzburg,Lower Franconia,Bavaria,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.188267,55.953252,locality,approximate,"edinburgh, uk",55.9919939,55.8904228,-3.0776588,-3.3330187,Edinburgh,NA,Edinburgh,Scotland,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.0899578,44.9537029,locality,approximate,"st paul, mn, usa",44.992016,44.88739899999999,-93.00431979999999,-93.207787,Saint Paul,NA,Ramsey County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.63191309999999,42.0307812,locality,approximate,"ames, ia, usa",42.076253,41.975428,-93.5542299,-93.698523,Ames,NA,Story County,Iowa,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.0899578,44.9537029,locality,approximate,"st paul, mn, usa",44.992016,44.88739899999999,-93.00431979999999,-93.207787,Saint Paul,NA,Ramsey County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.2650108,44.977753,locality,approximate,"minneapolis, mn, usa",45.05125,44.890144,-93.193794,-93.329163,Minneapolis,NA,Hennepin County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.4394777,35.2225668,locality,approximate,"norman, ok, usa",35.348324,35.14531789999999,-97.17691789999999,-97.547822,Norman,NA,Cleveland County,Oklahoma,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.5490774,53.8007554,locality,approximate,"leeds, uk",53.8812021,53.7308029,-1.3973731,-1.6740915,Leeds,NA,West Yorkshire,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-77.62738569999999,43.1696275,establishment,rooftop,"275 lake ave, rochester, ny 14608, usa",43.17097648029149,43.16827851970849,-77.6260367197085,-77.6287346802915,Rochester,NA,Monroe County,New York,United States,14608,NA,275,Lake Avenue,Edgerton,1042,NA,NA,NA,NA
+-2.2426305,53.4807593,locality,approximate,"manchester, uk",53.5445879,53.39990299999999,-2.1468288,-2.3000969000000002,Manchester,NA,Greater Manchester,England,United Kingdom,NA,Manchester,NA,NA,NA,NA,NA,NA,NA,NA
+34.811272,31.892773,locality,approximate,"rehovot, israel",31.920817,31.86597709999999,34.8507189,34.7619791,Rehovot,NA,Rehovot,Center District,Israel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-97.4394777,35.2225668,locality,approximate,"norman, ok, usa",35.348324,35.14531789999999,-97.17691789999999,-97.547822,Norman,NA,Cleveland County,Oklahoma,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77.5945627,12.9715987,locality,approximate,"bengaluru, karnataka, india",13.173706,12.7342888,77.8826809,77.3791981,Bengaluru,NA,Bangalore Urban,Karnataka,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8.541694,47.3768866,locality,approximate,"zürich, switzerland",47.43468,47.32023,8.6253701,8.448059899999999,Zürich,NA,Zürich District,Zurich,Switzerland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-41.95592329999999,-18.8549317,locality,approximate,"governador valadares, state of minas gerais, brazil",-18.825413,-18.9317866,-41.8702799,-41.99947359999999,Governador Valadares,NA,Governador Valadares,State of Minas Gerais,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.072092,4.710988599999999,locality,approximate,"bogotá, bogota, colombia",4.8371311,4.459464,-73.99197699999999,-74.223637,Bogotá,NA,NA,Bogota,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-123.0867536,44.0520691,locality,approximate,"eugene, or, usa",44.13261989999999,43.9887109,-123.036699,-123.208402,Eugene,NA,Lane County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-93.0899578,44.9537029,locality,approximate,"st paul, mn, usa",44.992016,44.88739899999999,-93.00431979999999,-93.207787,Saint Paul,NA,Ramsey County,Minnesota,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26.1025384,44.4267674,locality,approximate,"bucharest, romania",44.541407,44.3342445,26.225575,25.9637001,Bucharest,NA,Bucharest,Bucharest,Romania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-122.4194155,37.7749295,locality,approximate,"san francisco, ca, usa",37.812,37.70339999999999,-122.3482,-122.527,San Francisco,NA,San Francisco County,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+144.9630576,-37.8136276,colloquial_area,approximate,"melbourne vic, australia",-37.5112737,-38.4338593,145.5125288,144.5937418,NA,NA,NA,Victoria,Australia,NA,NA,NA,NA,NA,NA,Melbourne,NA,NA,NA
+-122.6764815,45.5230622,locality,approximate,"portland, or, usa",45.654424,45.432393,-122.4718489,-122.8369952,Portland,NA,Multnomah County,Oregon,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-79.3831843,43.653226,locality,approximate,"toronto, on, canada",43.8554579,43.45829699999999,-79.00248100000002,-79.639219,Toronto,NA,Toronto Division,Ontario,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-111.8412502,33.3061605,locality,approximate,"chandler, az, usa",33.3618571,33.2037779,-111.755287,-111.9724189,Chandler,NA,Maricopa County,Arizona,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-74.6672226,40.3572976,locality,approximate,"princeton, nj, usa",40.3917548,40.3048718,-74.61750789999999,-74.722177,Princeton,NA,Mercer County,New Jersey,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-43.1728965,-22.9068467,locality,approximate,"rio de janeiro, state of rio de janeiro, brazil",-22.7460327,-23.0822288,-43.0969042,-43.7950599,Rio de Janeiro,NA,Rio de Janeiro,State of Rio de Janeiro,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-71.0588801,42.3600825,locality,approximate,"boston, ma, usa",42.40081989999999,42.22788,-70.749455,-71.191113,Boston,NA,Suffolk County,Massachusetts,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-119.4179324,36.778261,administrative_area_level_1,approximate,"california, usa",42.0095169,32.528832,-114.131211,-124.482003,NA,NA,NA,California,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-95.3698028,29.7604267,locality,approximate,"houston, tx, usa",30.1107319,29.523624,-95.014496,-95.78808690000001,Houston,NA,Harris County,Texas,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.6297982,41.8781136,locality,approximate,"chicago, il, usa",42.023131,41.6443349,-87.52366099999999,-87.9402669,Chicago,NA,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133.775136,-25.274398,country,approximate,australia,-0.6911343999999999,-51.66332320000001,166.7429167,100.0911072,NA,NA,NA,NA,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-43.1728965,-22.9068467,locality,approximate,"rio de janeiro, state of rio de janeiro, brazil",-22.7460327,-23.0822288,-43.0969042,-43.7950599,Rio de Janeiro,NA,Rio de Janeiro,State of Rio de Janeiro,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-87.81367,41.8794758,locality,approximate,"forest park, il, usa",41.8870309,41.849831,-87.803857,-87.83366,Forest Park,Proviso Township,Cook County,Illinois,United States,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13.404954,52.52000659999999,locality,approximate,"berlin, germany",52.6754542,52.338234,13.7611175,13.088346,Berlin,NA,NA,Berlin,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-3.435973,55.378051,country,approximate,united kingdom,60.91569999999999,34.5614,33.9165549,-8.8988999,NA,NA,NA,NA,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-1.584852,54.77525,locality,approximate,"durham, uk",54.827611,54.7358989,-1.4974256,-1.6070484,Durham,NA,County Durham,England,United Kingdom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-4.4213988,36.7212737,administrative_area_level_4,approximate,"málaga, spain",36.8940412,36.6356229,-4.260489700000001,-4.587888599999999,NA,NA,Málaga,Andalusia,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,Málaga
